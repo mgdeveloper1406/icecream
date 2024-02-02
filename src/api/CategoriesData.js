@@ -9,7 +9,7 @@ const CategoriesData = [
     id: '2',
     categoryName: 'Fruits',
     cardColor: 'green',
-    icon: 'https://img.lovepik.com/free-png/20211207/lovepik-fruit-ice-cream-png-image_401394584_wh1200.png'
+    icon: 'https://png.pngtree.com/png-clipart/20231002/original/pngtree-ice-cream-with-fruits-and-toppings-on-wafer-cone-isolated-clip-png-image_13229238.png'
   },
   {
     id: '3',
