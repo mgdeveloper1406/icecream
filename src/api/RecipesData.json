@@ -373,32 +373,30 @@
   },
   {
      "id":"52",
-     "image":"https://cdn.pixabay.com/photo/2017/06/30/21/49/bread-2459926_1280.jpg",
-     "title":"Sweet Potato Banana Bread",
+     "image":"https://img.freepik.com/premium-photo/mint-choc-chip-ice-cream_651412-3723.jpg",
+     "title":"Mint Chocolate Chip Ice Cream",
      "createdOn":"15 March 2022",
-     "prepTime":"45 minutes",
-     "foodType":["bread", "vegetarian","healthy"],
+     "prepTime":"4 hours 15 minutes",
+     "foodType":["creamy"],
      "author":"MG Developer",
      "authorImage":"/imgs/courtney-henry.png",
      "nutritionInfo": {
-      "calories": "120 kcal",
-      "totalFat": "3g",
+      "calories": "280  kcal",
+      "totalFat": "16g",
       "protein": "3g",
-      "carbohydrate": "22g",
-      "cholesterol": "0,0374 g"
+      "carbohydrate": "30g",
+      "cholesterol": "85 g"
      },
-     "description": "A moist and nutritious bread combining the sweetness of sweet potatoes and bananas, perfect for tiny hands.",
+     "description": "Creamy mint-flavored ice cream loaded with chocolate chips for a refreshing and indulgent treat.",
      "ingredients": {
       "main": {
-        "1": "1 cup mashed sweet potatoes",
-        "2": "2 ripe bananas, mashed",
-        "3": "1/4 cup melted coconut oil",
-        "4": "2 eggs",
-        "5": "1 teaspoon vanilla extract",
-        "6": "1 1/2 cups whole wheat flour",
-        "7": "1 teaspoon baking soda",
-        "8": "1/2 teaspoon cinnamon",
-        "9": "A pinch of salt"
+        "1": "2 cups heavy cream",
+        "2": "1 cup whole milk",
+        "3": "3/4 cup granulated sugar",
+        "4": "1 teaspoon peppermint extract",
+        "5": "Green food coloring (optional)",
+        "6": "1/2 cup chocolate chips"
+        
 
       },
       "sauce": {
@@ -410,17 +408,37 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Preheat the oven to 350°F (175°C). In a bowl, mix sweet potatoes, bananas, coconut oil, eggs, and vanilla.",
+          "description": "In a saucepan, heat the heavy cream, whole milk, sugar, and peppermint extract over medium heat until sugar dissolves and mixture is steaming.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "In a separate bowl, whisk together flour, baking soda, cinnamon, and salt."
+          "description": "Remove from heat and let cool to room temperature."
         },
         "3": {
           "title": "Step 3",
-          "description": "Combine wet and dry ingredients, pour into a greased loaf pan, and bake until a toothpick comes out clean."
+          "description": "Stir in a few drops of green food coloring if desired."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Cover and refrigerate for at least 4 hours or overnight."
+        },
+        "5": {
+          "title": "Step 5",
+          "description": "Once chilled, pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
+        },
+        "6": {
+          "title": "Step 6",
+          "description": "During the last few minutes of churning, add the chocolate chips."
+        },
+        "7": {
+          "title": "Step 7",
+          "description": "Transfer churned ice cream to a freezer-safe container and freeze for a few hours until firm."
+        },
+        "8": {
+          "title": "Step 8",
+          "description": "Serve and enjoy! ."
         }
      }
   },
