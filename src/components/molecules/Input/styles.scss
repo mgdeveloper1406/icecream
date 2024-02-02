@@ -1,0 +1,47 @@
+.defaultInput {
+    font-family: 'Inter';
+    font-size: var(--text-small);
+    line-height: 24px;
+    background: var(--white);
+    border: 1px solid var(--grey-light);
+    border-radius: 1rem;
+    width: 100%;
+    height: 60px;
+    padding: 15px;
+
+    &:focus {
+        outline: 1px solid var(--black);
+    }
+
+    &--error {
+        border: 1px solid #FC2D2D;
+    }
+
+    &__container {
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+    }
+
+    &__label {
+        font-family: 'Inter';
+        font-weight: var(--font-medium);
+        font-size: var(--text-xsmall);
+        color: var(--grey-2);
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        line-height: 20px;
+        padding: 14px 0;
+        
+        &--visuallyHidden {
+            border: 0;
+            clip: rect(0 0 0 0);
+            height: 1px;
+            margin: -1px;
+            overflow: hidden;
+            padding: 0;
+            position: absolute;
+            width: 1px;
+        }
+    } 
+}

@@ -1,0 +1,39 @@
+
+  .socialList__item {
+    text-decoration: none;
+  }
+  
+  .socialList__link {
+    width: 30px;
+    cursor: pointer;
+  }
+  
+
+  .socialList{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:40px;
+    align-items: center;
+    list-style: none;
+    &--disabled{
+    display: none;
+  
+    }
+  } 
+  
+
+  @media (min-width: 1024px) {
+    .socialList{
+      &--disabled{
+      grid-template-columns: 1fr 1fr 1fr;
+      display: grid;
+      align-items: center;
+      gap:40px;
+      list-style: none;
+      
+      }
+    } 
+
+  
+
+  }

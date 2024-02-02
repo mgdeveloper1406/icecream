@@ -1,0 +1,115 @@
+.newsletter {
+  background-color: #E7F9FD;
+  background-image: url(/imgs/newsletter-left-salad.png), url(/imgs/newsletter-right-dish.png);
+  background-repeat: no-repeat;
+  background-position: left bottom, right bottom;
+  background-size: 200px 200px, 150px 150px;
+  border-radius: 60px;
+  width: 100%;
+  padding: 30px;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 100px;
+
+  &__form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    min-height: 250px;
+
+  }
+
+  &__title {
+    font-size: var(--text-2xlarge);
+    font-family: var(--main-font-family);
+    font-weight: var(--font-semibold);
+    line-height: 36px;
+    letter-spacing: -0.04em;
+    padding: 10px;
+    margin: 0;
+  }
+
+  &__paragraph {
+    color: var(--grey-2);
+    line-height: 28px;
+    margin: 25px;
+    max-width: 460px;
+  }
+
+  &__inputContainer {
+    width: 100%;
+  }
+
+  &__input {
+    border-radius: 24px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    border: none;
+    font-size: 16px;
+    padding-left: 30px;
+    height: 60px;
+    width: 100%;
+    max-width: 460px;
+    margin-bottom: 30px;
+  }
+  
+  &__inputLabel--visuallyHidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  &__button {
+    background: var(--black);
+    border-radius: 16px;
+    border: none;
+    color: var(--white);
+    padding: 20px;
+    width: 100%;
+    max-width: 460px;
+    cursor: pointer;
+  }
+
+  &__button:hover {
+    opacity: .8;
+  }
+}
+
+@media (min-width:1024px) {
+  .newsletter__title {
+    font-size: var(--text-3xlarge);
+  }
+
+  .newsletter__paragraph {
+    max-width: 600px;
+  }
+
+  .input-container {
+    display: flex;
+    width: 70%;
+    max-width: 480px;
+    align-items: center;
+    border-radius: 24px;
+    background-color: var(--white);
+    padding: 10px;
+    margin: 40px 0;
+  }
+
+  .newsletter__input {
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  .newsletter__button {
+    max-width: 160px;
+    margin-left: 10px;
+  }
+}

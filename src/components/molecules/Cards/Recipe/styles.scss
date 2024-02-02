@@ -1,0 +1,96 @@
+.recipeCard {
+  position: relative;
+  text-align: left;
+  width: 100%;
+
+  &__container {
+    list-style-type: none;
+
+    /* size */
+    &--small {
+      max-width: 290px;
+      border-radius: 20px;
+      padding-bottom: 1rem;
+    }
+
+    &--large {
+      max-width: 400px;
+      border-radius: 30px;
+      padding: 1rem;
+      padding-bottom: 2rem;
+    }
+
+    /* background color */
+    &--default {
+      background-color: var(--white);
+    }
+
+    &--lightBlue {
+      background: linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, var(--blue-1) 100%);
+
+      &:hover {
+        background: linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, var(--blue-3) 100%);
+      }
+    } 
+  }
+
+  &__link {
+    margin: 0;
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+
+    &:link {
+      color: var(--black);
+    }
+
+    &:visited {
+      color: var(--black);
+    }
+  }
+
+  &__img {
+    border-radius: 20px;
+    width: 100%;
+    margin-bottom: 14px;
+  }
+
+  &__title {
+    font-weight: var(--font-semibold);
+    margin-bottom: 20px;
+
+    &--small {
+      font-size: clamp(var(--text-small), 4vw, var(--text-medium));
+    }
+
+    &--large {
+      font-size: clamp(var(--text-large), 4.2vw, var(--text-xlarge));
+    }
+  }
+
+  &__tags {
+    display: flex;
+    font-size: var(--text-small);
+    font-weight: var(--font-medium);
+    color: var(--grey-2);
+    text-align: left;
+  }
+
+  &__tag1, &__tag2 {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  &__tag1 {
+    margin-right: 16px;
+  }
+
+  &__tagText {
+    margin-left: 8px;
+
+    &:first-letter {
+      text-transform: uppercase;
+    }
+  }
+}

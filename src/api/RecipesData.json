@@ -1,0 +1,2163 @@
+[
+  {
+     "id":"1",
+     "image":"https://cdn.pixabay.com/photo/2016/12/25/22/43/pancakes-1931089_1280.jpg",
+     "title":"Banana Pancake Bites",
+     "createdOn":"15 March 2024",
+     "prepTime":"15 minutes",
+     "foodType":["healthy", "breakfast", "vegetarian"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/robert-fox.png",
+     "nutritionInfo": {
+      "calories": "50  kcal",
+      "totalFat": "1g",
+      "protein": "1g",
+      "carbohydrate": "10g",
+      "cholesterol": "0,0374 g"
+     },
+     "description": "Soft and bite-sized banana pancake bites, perfect for little hands to grasp and explore.",
+     "ingredients": {
+      "main": {
+        "1": "1 ripe banana",
+        "2": "1 egg",
+        "3": "2 tablespoons oat flour"
+        
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Mash the banana in a bowl.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Add the egg and oat flour, mix until well combined."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Spoon small portions onto a heated skillet and cook until golden on both sides."
+        }
+     }
+  },
+  {
+     "id":"2",
+     "image":"https://cdn.pixabay.com/photo/2023/05/24/16/32/muffin-8015288_640.jpg",
+     "title":"Blueberry Oat Muffins",
+     "createdOn":"15 March 2024",
+     "prepTime":"20 minutes",
+     "foodType":["healthy", "breakfast", "snack"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/dianne-russel.png",
+     "nutritionInfo": {
+      "calories": "70  kcal",
+      "totalFat": "2g",
+      "protein": "2g",
+      "carbohydrate": "12g",
+      "cholesterol": "0,03 mg"
+     },
+     "description": "Nutrient-packed muffins made with oats and fresh blueberries, introducing texture and flavor.",
+     "ingredients": {
+      "main": {
+        "1": "1 cup rolled oats",
+        "2": "1 ripe banana",
+        "3": "1/2 cup blueberries",
+        "4": "1/4 cup milk (of your choice"
+        
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Blend oats into a flour-like consistency.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Mash the banana and mix with oats, blueberries, and milk."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Spoon into muffin cups and bake at 350°F (175°C) for 15-20 minutes."
+        }
+     }
+  },
+  {
+     "id":"3",
+     "image":"https://cdn.pixabay.com/photo/2018/01/18/21/37/muesli-3091299_640.jpg",
+     "title":"Yogurt and Fruit Parfait",
+     "createdOn":"15 March 2022",
+     "prepTime":"10 minutes",
+     "foodType":["healthy", "breakfast", "vegetarian"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/dianne-russel.png",
+     "nutritionInfo": {
+      "calories": "80  kcal",
+      "totalFat": "2g",
+      "protein": "3g",
+      "carbohydrate": "14g",
+      "cholesterol": "0,02g"
+     },
+     "description": "A delightful parfait with yogurt and finely chopped fruits, offering a mix of flavors and textures.",
+     "ingredients": {
+      "main": {
+        "1": "/2 cup yogurt",
+        "2": "1/4 cup finely chopped mixed fruits (e.g., berries, kiwi)"
+              
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Layer yogurt and chopped fruits in a small jar or bowl.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Repeat layers until ingredients are used up."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Serve immediately!"
+        }
+     }
+  },
+  {
+     "id":"4",
+     "image":"https://cdn.pixabay.com/photo/2022/02/12/20/25/sweet-potato-7009882_640.jpg",
+     "title":"Sweet Potato Toast Sticks",
+     "createdOn":"15 March 2024",
+     "prepTime":"25 minutes",
+     "foodType":["breakfast", "vegetarian", "healthy"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/robert-fox.png",
+     "nutritionInfo": {
+      "calories": "60 kcal",
+      "totalFat": "0.5g",
+      "protein": "1g",
+      "carbohydrate": "14g",
+      "cholesterol": "o,002g"
+     },
+     "description": "Oven-baked sweet potato sticks, providing a soft and nutritious option for self-feeding.",
+     "ingredients": {
+      "main": {
+        "1": "1 small sweet potato"
+        
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Slice the sweet potato into thin sticks",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Bake at 400°F (200°C) for 20-25 minutes or until tender."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Cool slightly before serving."
+        }
+     }
+  },
+  {
+     "id":"51",
+     "image":"https://cdn.pixabay.com/photo/2022/02/12/21/22/toast-7009956_640.jpg",
+     "title":"Avocado and Egg Smash",
+     "createdOn":"15 March 2024",
+     "prepTime":"15  minutes",
+     "foodType":["breakfast", "vegetarian", "healthy"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/dianne-russel.png",
+     "nutritionInfo": {
+      "calories": "90  kcal",
+      "totalFat": "7g",
+      "protein": "4g",
+      "carbohydrate": "5g",
+      "cholesterol": "0mg"
+     },
+     "description": "Mashed avocado paired with softly scrambled eggs, offering a creamy and protein-rich breakfast.",
+     "ingredients": {
+      "main": {
+        "1": "1/2 ripe avocado",
+        "2": "1 egg"
+        
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Mash the avocado in a bowl.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Scramble the egg and mix it with the mashed avocado."
+        },
+        "3": {
+          "title": "Step 2",
+          "description": "Cook in a pan until the eggs are fully cooked."
+        }
+     }
+  },
+  {
+     "id":"52",
+     "image":"https://cdn.pixabay.com/photo/2017/06/30/21/49/bread-2459926_1280.jpg",
+     "title":"Sweet Potato Banana Bread",
+     "createdOn":"15 March 2022",
+     "prepTime":"45 minutes",
+     "foodType":["bread", "vegetarian","healthy"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/courtney-henry.png",
+     "nutritionInfo": {
+      "calories": "120 kcal",
+      "totalFat": "3g",
+      "protein": "3g",
+      "carbohydrate": "22g",
+      "cholesterol": "0,0374 g"
+     },
+     "description": "A moist and nutritious bread combining the sweetness of sweet potatoes and bananas, perfect for tiny hands.",
+     "ingredients": {
+      "main": {
+        "1": "1 cup mashed sweet potatoes",
+        "2": "2 ripe bananas, mashed",
+        "3": "1/4 cup melted coconut oil",
+        "4": "2 eggs",
+        "5": "1 teaspoon vanilla extract",
+        "6": "1 1/2 cups whole wheat flour",
+        "7": "1 teaspoon baking soda",
+        "8": "1/2 teaspoon cinnamon",
+        "9": "A pinch of salt"
+
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Preheat the oven to 350°F (175°C). In a bowl, mix sweet potatoes, bananas, coconut oil, eggs, and vanilla.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "In a separate bowl, whisk together flour, baking soda, cinnamon, and salt."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Combine wet and dry ingredients, pour into a greased loaf pan, and bake until a toothpick comes out clean."
+        }
+     }
+  },
+  {
+     "id":"53",
+     "image":"https://cdn.pixabay.com/photo/2018/09/10/19/21/bread-3667829_1280.jpg",
+     "title":"Apple Zucchini Bread",
+     "createdOn":"15 March 2024",
+     "prepTime":"55 minutes",
+     "foodType":["bread", "dessert", "vegetarian"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/courtney-henry.png",
+     "nutritionInfo": {
+      "calories": "100 kcal",
+      "totalFat": "2.5g",
+      "protein": "2g",
+      "carbohydrate": "2g",
+      "cholesterol": "0,0374 g"
+     },
+     "description": "A delicious way to sneak in veggies with the sweetness of apples in a soft, baby-friendly bread.",
+     "ingredients": {
+      "main": {
+        "1": "1 cup grated zucchini, excess water squeezed out",
+        "2": "1/2 cup applesauce",
+        "3": "1/4 cup melted butter",
+        "4": "1/2 cup brown sugar",
+        "5": "1 egg",
+        "6": "1 teaspoon vanilla extract",
+        "7": "1 1/2 cups all-purpose flour",
+        "8": "1/2 teaspoon baking powder",
+        "9": "1/2 teaspoon cinnamon",
+        "10": "1/2 teaspoon baking soda",
+        "11": "A pinch of salt"
+
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Preheat the oven to 350°F (175°C). Preheat the oven to 350°F (175°C).",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Mix zucchini, applesauce, melted butter, brown sugar, egg, and vanilla in a bowl."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Combine wet and dry ingredients, pour into a greased loaf pan, and bake until a toothpick comes out clean."
+        }
+     }
+  },
+  {
+     "id":"54",
+     "image":"https://cdn.pixabay.com/photo/2016/06/22/17/44/easter-1473615_1280.jpg",
+     "title":"Carrot Oat Bread Bites",
+     "createdOn":"15 March 2022",
+     "prepTime":"45 minutes",
+     "foodType":["bread", "vegetarian", "snack"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/robert-fox.png",
+     "nutritionInfo": {
+      "calories": "80  kcal",
+      "totalFat": "2.5g",
+      "protein": "12g ",
+      "carbohydrate": "1g",
+      "cholesterol": "0mg"
+     },
+     "description": "Mini carrot and oat bread bites, perfect for little fingers to grasp and nibble on.",
+     "ingredients": {
+      "main": {
+        "1": "1/2 cup grated carrots",
+        "2": "1/4 cup melted coconut oil",
+        "3": "1/4 cup honey",
+        "4": "1 egg",
+        "5": "1 teaspoon vanilla extract",
+        "6": "Pinch of sea salt",
+        "7": "1/2 cup whole wheat flour",
+        "8": "1/2 teaspoon baking soda"
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Preheat the oven to 350°F (175°C). In a bowl, mix carrots, melted coconut oil, honey, egg, and vanilla.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "In a separate bowl, combine oats, flour, baking soda, and salt."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Combine wet and dry ingredients, spoon into mini muffin tins, and bake until golden brown."
+        }
+     }
+  },
+  {
+     "id":"55",
+     "image":"https://cdn.pixabay.com/photo/2017/03/12/10/29/blueberry-muffins-2136749_1280.jpg",
+     "title":"Banana Blueberry Mini Muffins",
+     "createdOn":"15 March 2024",
+     "prepTime":"30 minutes",
+     "foodType":["vegetarian", "snack", "bread"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/courtney-henry.png",
+     "nutritionInfo": {
+      "calories": "60 kcal",
+      "totalFat": "2g",
+      "protein": "1g",
+      "carbohydrate": "1g",
+      "cholesterol": "0mg"
+     },
+     "description": "Tiny, soft muffins bursting with the sweetness of bananas and the goodness of blueberries.",
+     "ingredients": {
+      "main": {
+        "1": "2 ripe bananas, mashed",
+        "2": "1/4 cup melted coconut oil",
+        "3": "1/4 cup maple syrup",
+        "4": "1 egg",
+        "5": "1 cup whole wheat flour",
+        "6": "1/2 teaspoon baking soda",
+        "7": "1/4 teaspoon salt",
+        "8": "1/2 cup blueberries (fresh or frozen)"
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Preheat the oven to 350°F (175°C). Mix bananas, melted coconut oil, maple syrup, egg, and vanilla in a bowl.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "In a separate bowl, whisk together flour, baking soda, and salt."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Combine wet and dry ingredients, fold in blueberries, spoon into mini muffin tins, and bake until golden."
+        }
+     }
+  },
+  {
+     "id":"56",
+     "image":"https://cdn.pixabay.com/photo/2021/01/11/12/24/muffins-5908287_1280.jpg",
+     "title":"Spinach and Cheese Savory Muffins",
+     "createdOn":"15 March 2022",
+     "prepTime":"40 minutes",
+     "foodType":["bread", "snack", "vegetarian"],
+     "author":"Leslie Alexander",
+     "authorImage":"/imgs/leslie-alexander.png",
+     "nutritionInfo": {
+      "calories": "90  kcal",
+      "totalFat": "4g",
+      "protein": "3g",
+      "carbohydrate": "3g",
+      "cholesterol": "0mg"
+     },
+     "description": "Savory muffins packed with spinach and cheese, introducing a delightful twist to baby's taste buds.",
+     "ingredients": {
+      "main": {
+        "1": "1 cup fresh spinach, finely chopped",
+        "2": "1/2 cup shredded cheddar cheese",
+        "3": "1 cup all-purpose flour",
+        "4": "1 teaspoon baking powder",
+        "5": "1/4 teaspoon salt",
+        "6": "1/2 cup milk",
+        "7": "1/4 cup melted butter",
+        "8": "1 egg"
+        
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Preheat the oven to 350°F (175°C). In a bowl, combine chopped spinach and shredded cheddar cheese.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "In a separate bowl, whisk together flour, baking powder, baking soda, and salt."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Combine milk, melted butter, and egg in another bowl. Add the wet ingredients to the dry ingredients, then fold in the spinach and cheese mixture. Spoon into muffin cups and bake until a toothpick comes out clean."
+        }
+     }
+  },
+  {
+     "id":"57",
+     "image":"https://cdn.pixabay.com/photo/2012/06/28/10/32/meat-balls-50929_1280.jpg",
+     "title":"Mini Turkey Meatballs",
+     "createdOn":"15 March 2022",
+     "prepTime":"30 minutes",
+     "foodType":["snack", "healthy", "meat"],
+     "author":"Wade Warren",
+     "authorImage":"/imgs/wade-warren.png",
+     "nutritionInfo": {
+      "calories": "80 kcal",
+      "totalFat": "4 g",
+      "protein": "8 g",
+      "carbohydrate": "2 g",
+      "cholesterol": "30 mg"
+     },
+     "description": "Tender and flavorful turkey meatballs, perfect for little ones to grasp and explore.",
+     "ingredients": {
+      "main": {
+        "1": "1/2 pound ground turkey",
+        "2": "1/4 cup breadcrumbs",
+        "3": "1 egg",
+        "4": "1/4 teaspoon garlic powder",
+        "5": "1/4 teaspoon onion powder",
+        "6": "Salt and pepper to taste"
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Preheat the oven to 375°F (190°C). n a bowl, mix ground turkey, breadcrumbs, egg, garlic powder, onion powder, salt, and pepper.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Shape mixture into small meatballs and place on a baking sheet."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Bake for 15 minutes or until cooked through."
+        }
+     }
+  },
+  {
+     "id":"58",
+     "image":"https://cdn.pixabay.com/photo/2021/07/02/05/09/paneer-tikka-6380891_1280.jpg",
+     "title":"Chicken and Vegetable Skewers",
+     "createdOn":"15 March 2024",
+     "prepTime":"35 minutes",
+     "foodType":["snack", "meat", "healthy"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/leslie-alexander.png",
+     "nutritionInfo": {
+      "calories": "120  kcal",
+      "totalFat": "3.5g",
+      "protein": "15g",
+      "carbohydrate": "8g",
+      "cholesterol": "40mg"
+     },
+     "description": "Colorful skewers featuring tender chicken and a variety of vegetables, introducing different flavors and textures.",
+     "ingredients": {
+      "main": {
+        "1": "1/2 pound boneless, skinless chicken breast, cut into cubes",
+        "2": "Assorted vegetables (e.g., bell peppers, zucchini, cherry tomatoes)",
+        "3": "Olive oil",
+        "4": "Salt and pepper to taste"
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Preheat the grill or grill pan over medium heat. Thread chicken cubes and vegetables onto skewers, alternating between them.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Brush skewers with olive oil and season with salt and pepper."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Grill for 12-15 minutes, turning occasionally, until chicken is cooked through and vegetables are tender."
+        }
+     }
+  },
+  {
+     "id":"101",
+     "image":"https://cdn.pixabay.com/photo/2015/03/02/00/03/spinach-655479_1280.jpg",
+     "title":"Salmon Patties",
+     "createdOn":"15 March 2024",
+     "prepTime":"35  minutes",
+     "foodType":["healthy", "snack", "meat"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/leslie-alexander.png",
+     "nutritionInfo": {
+      "calories": "150 kcal",
+      "totalFat": "9g",
+      "protein": "12g",
+      "carbohydrate": "5g",
+      "cholesterol": "45mg"
+     },
+     "description": "Delicious and nutritious salmon patties, rich in omega-3 fatty acids and protein.",
+     "ingredients": {
+      "main": {
+        "1": "1 can (6 ounces) salmon, drained and flaked",
+        "2": "1/4 cup breadcrumbs",
+        "3": "1 egg",
+        "4": "1 tablespoon chopped fresh parsley",
+        "5": "1/4 teaspoon garlic powder",
+        "6": "Salt and pepper to taste",
+        "7": "Olive oil for frying"
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "In a bowl, combine salmon, breadcrumbs, egg, parsley, garlic powder, salt, and pepper.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Shape mixture into small patties.Heat olive oil in a skillet over medium heat."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Fry patties for 3-4 minutes on each side or until golden brown and cooked through."
+        }
+     }
+  },
+  {
+     "id":"102",
+     "image":"https://cdn.pixabay.com/photo/2015/09/09/20/04/meal-932966_640.jpg",
+     "title":"Beef and Sweet Potato Mash",
+     "createdOn":"15 March 2022",
+     "prepTime":"40  minutes",
+     "foodType":["snack", "meat"],
+     "author":"MG Developer",
+     "authorImage": "/imgs/albert-flores.png",
+     "nutritionInfo": {
+      "calories": "180  kcal",
+      "totalFat": "6g",
+      "protein": "12g",
+      "carbohydrate": "18g",
+      "cholesterol": "35mg"
+     },
+     "description": "A comforting mash featuring lean ground beef and creamy sweet potatoes, perfect for introducing new flavors and textures.",
+     "ingredients": {
+      "main": {
+        "1": "1/2 pound lean ground beef",
+        "2": "1 small sweet potato, peeled and diced",
+        "3": "1/4 cup beef or vegetable broth",
+        "4": "1/4 teaspoon dried thyme",
+        "5": "Salt and pepper to taste"
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "In a skillet, brown ground beef over medium heat until cooked through. Drain excess fat.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "In a separate pot, boil sweet potatoes until tender. Drain and mash with broth, thyme, salt, and pepper."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Mix cooked ground beef with mashed sweet potatoes until well combined. Serve warm."
+        }
+
+     }
+  },
+  {
+     "id":"103",
+     "image":"https://cdn.pixabay.com/photo/2018/08/12/00/34/meatloaf-3599882_1280.jpg",
+     "title":"Turkey and Veggie Meatloaf",
+     "createdOn":"15 March 2022",
+     "prepTime":"55 minutes",
+     "foodType":["healthy", "meat"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/wade-warren.png",
+     "nutritionInfo": {
+      "calories": "160  kcal",
+      "totalFat": "5g",
+      "protein": "15g",
+      "carbohydrate": "12g",
+      "cholesterol": "40mg"
+     },
+     "description": "A wholesome meatloaf packed with ground turkey and nutritious vegetables, baked to perfection.",
+     "ingredients": {
+      "main": {
+        "1": "1/2 pound ground turkey",
+        "2": "1/4 cup finely chopped mixed vegetables (e.g., carrots, onions, bell peppers)",
+        "3": "1/4 cup breadcrumbs",
+        "4": "1 egg",
+        "5": "2 tablespoons ketchup or tomato sauce",
+        "6": "1 teaspoon Worcestershire sauce",
+        "7": "Salt and pepper to taste"
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Preheat the oven to 350°F (175°C). In a bowl, mix ground turkey, chopped vegetables, breadcrumbs, egg, ketchup, Worcestershire sauce, salt, and pepper.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Shape mixture into a loaf and place in a greased loaf pan."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Bake for 40-45 minutes or until cooked through."
+        }
+     }
+  },
+  {
+     "id":"104",
+     "image":"https://cdn.pixabay.com/photo/2023/02/19/18/33/baking-7800787_1280.jpg",
+     "title":"Banana Oat Cookies",
+     "createdOn":"15 March 2024",
+     "prepTime":"25 minutes",
+     "foodType":["dessert", "snack", "vegetarian"],
+     "author":"MG Developer",
+     "authorImage": "/imgs/albert-flores.png",
+     "nutritionInfo": {
+      "calories": "80 kcal",
+      "totalFat": "2g",
+      "protein": "2g",
+      "carbohydrate": "14g",
+      "cholesterol": "5mg"
+     },
+     "description": "Soft and chewy cookies made with mashed bananas and oats, perfect for tiny hands.",
+     "ingredients": {
+      "main": {
+        "1": "1 ripe banana, mashed",
+        "2": "1/2 cup rolled oats",
+        "3": "1 tablespoon melted butter or coconut oil",
+        "4": "1 tablespoon honey or maple syrup",
+        "5": "1/4 teaspoon cinnamon (optional)"
+        
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Preheat the oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "In a bowl, mix mashed banana, oats, melted butter or coconut oil, honey or maple syrup, and cinnamon (if using)."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Drop spoonfuls of the mixture onto the prepared baking sheet and flatten slightly with a fork. Bake for 12-15 minutes or until golden brown. Allow to cool before serving."
+        }
+     }
+  },
+  {
+     "id":"105",
+     "image":"https://cdn.pixabay.com/photo/2016/05/13/16/37/muffin-1390368_1280.jpg",
+     "title":"Apple Cinnamon Muffins",
+     "createdOn":"15 March 2024",
+     "prepTime":"30 minutes",
+     "foodType": ["vegetarian", "dessert", "snack"],
+     "author":"Wade Warren",
+     "authorImage":"/imgs/wade-warren.png",
+     "nutritionInfo": {
+      "calories": "100 kcal",
+      "totalFat": "3 g",
+      "protein": "2 g",
+      "carbohydrate": "18 g",
+      "cholesterol": "10mg"
+     },
+     "description": "Moist and flavorful muffins infused with the natural sweetness of apples and a hint of cinnamon.",
+     "ingredients": {
+      "main": {
+        "1": "1 cup diced apples",
+        "2": "1 cup whole wheat flour",
+        "3": "1/4 cup melted butter or coconut oil",
+        "4": "1/4 cup maple syrup or honey",
+        "5": "1 egg",
+        "6": "1/2 teaspoon baking powder",
+        "7": "1/2 teaspoon baking soda",
+        "8": "1 teaspoon cinnamon",
+        "9": "A pinch of salt"
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Preheat the oven to 350°F (175°C) and line a muffin tin with paper liners.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "In a bowl, mix diced apples, whole wheat flour, melted butter or coconut oil, maple syrup or honey, egg, baking powder, baking soda, cinnamon, and salt until well combined."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Spoon the batter into the prepared muffin tin, filling each cup about two-thirds full."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean. Allow to cool before serving."
+        }
+     }
+  },
+  {
+     "id":"106",
+     "image":"https://cdn.pixabay.com/photo/2018/09/16/22/51/ice-cream-3682563_640.jpg",
+     "title":"Avocado Chocolate Pudding",
+     "createdOn":"15 March 2024",
+     "prepTime":"10 minutes",
+     "foodType":["dessert", "vegetarian", "snack"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/albert-flores.png",
+     "nutritionInfo": {
+      "calories": "120  kcal",
+      "totalFat": "8g",
+      "protein": "2g",
+      "carbohydrate": "4g",
+      "cholesterol": "0mg"
+     },
+     "description": "Creamy and indulgent chocolate pudding made with ripe avocados, offering a healthy twist on a classic dessert",
+     "ingredients": {
+      "main": {
+        "1": "2 ripe avocados",
+        "2": "1/4 cup cocoa powder",
+        "3": "1/4 cup maple syrup or honey",
+        "4": "1 teaspoon vanilla extract",
+        "5": "A pinch of salt"
+         },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "In a blender or food processor, combine ripe avocados, cocoa powder, maple syrup or honey, vanilla extract, and salt.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Blend until smooth and creamy, scraping down the sides as needed."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Transfer the pudding to serving cups and chill in the refrigerator for at least 1 hour before serving"
+        }
+     }
+  },
+  {
+     "id":"107",
+     "image":"https://cdn.pixabay.com/photo/2020/05/24/19/49/currant-popsicles-5215884_1280.jpg",
+     "title":"Berry Yogurt Popsicles",
+     "createdOn":"15 March 2024",
+     "prepTime":"10 minutes",
+     "foodType":["healthy", "snack", "dessert"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/albert-flores.png",
+     "nutritionInfo": {
+      "calories": "50  kcal",
+      "totalFat": "1g",
+      "protein": "2g",
+      "carbohydrate": "8g",
+      "cholesterol": "5mg"
+     },
+     "description": "Refreshing and nutritious popsicles made with Greek yogurt and mixed berries, perfect for soothing teething gums.",
+     "ingredients": {
+      "main": {
+        "1": "1 cup Greek yogurt",
+        "2": "1/2 cup mixed berries (e.g., strawberries, blueberries, raspberries)",
+        "3": "1 tablespoon honey or maple syrup (optional)"
+        
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "In a blender or food processor, combine Greek yogurt, mixed berries, and honey or maple syrup (if using).",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "ABlend until smooth. Pour the mixture into popsicle molds, insert sticks, and freeze for 4-6 hours or until completely frozen."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Add lentils and vegetable broth. Bring to a boil, then simmer for 25-30 minutes. Season with salt and pepper. To remove the popsicles from the molds, run them under warm water for a few seconds before gently pulling them out."
+        }
+     }
+  },
+  {
+     "id":"108",
+     "image":"https://cdn.pixabay.com/photo/2015/05/22/06/07/peach-778334_1280.jpg",
+     "title":"Peach Banana Soft Serve",
+     "createdOn":"15 March 2022",
+     "prepTime":"35 minutes",
+     "foodType":["dessert", "snack"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/wade-warren.png",
+     "nutritionInfo": {
+      "calories": "60  kcal",
+      "totalFat": "0g",
+      "protein": "1g",
+      "carbohydrate": "15g",
+      "cholesterol": "0mg"
+     },
+     "description": " A creamy and naturally sweet soft serve made with frozen peaches and bananas, offering a guilt-free treat.",
+     "ingredients": {
+      "main": {
+        "1": "1 ripe banana, sliced and frozen",
+        "2": "1 cup sliced peaches, frozen"
+        
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "In a blender or food processor, combine frozen banana slices and frozen peach slices.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Blend until smooth and creamy, scraping down the sides as needed."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Transfer the soft serve to serving bowls and enjoy immediately."
+        }
+     }
+  },
+  {
+     "id":"151",
+     "image":"https://cdn.pixabay.com/photo/2017/03/12/10/30/blueberry-2136750_1280.jpg",
+     "title":"Banana Blueberry Oat Bites",
+     "createdOn":"15 March 2024",
+     "prepTime":"30 minutes",
+     "foodType":["snack", "vegetarian"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/leslie-alexander.png",
+     "nutritionInfo": {
+      "calories": "70 kcal",
+      "totalFat": "1g",
+      "protein": "2g",
+      "carbohydrate": "14g",
+      "cholesterol": "5mg"
+     },
+     "description": "Soft and chewy bites packed with the natural sweetness of bananas and blueberries, perfect for little fingers to grasp and explore.",
+     "ingredients": {
+      "main": {
+        "1": "1 ripe banana, mashed",
+        "2": "1/4 cup rolled oats",
+        "3": "2 tablespoons blueberries, chopped",
+        "4": "1 tablespoon melted coconut oil",
+        "5": "1 tablespoon honey or maple syrup",
+        "6": "1/4 teaspoon cinnamon (optional)"
+      
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Preheat the oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "In a bowl, mix mashed banana, rolled oats, chopped blueberries, melted coconut oil, honey or maple syrup, and cinnamon (if using) until well combined."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Drop spoonfuls of the mixture onto the prepared baking sheet and flatten slightly with a fork."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Bake for 15 minutes or until golden brown. Allow to cool before serving."
+        }
+     }
+  },
+  {
+     "id":"152",
+     "image":"https://cdn.pixabay.com/photo/2023/07/20/11/00/salty-muffin-8139064_1280.jpg",
+     "title":"Cheesy Veggie Quinoa Bites",
+     "createdOn":"15 March 2022",
+     "prepTime":"25 minutes",
+     "foodType":["snack"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/albert-flores.png",
+     "nutritionInfo": {
+      "calories": "50 kcal",
+      "totalFat": "3g",
+      "protein": "4g",
+      "carbohydrate": "12g",
+      "cholesterol": "10mg"
+     },
+     "description": "Bite-sized quinoa bites loaded with cheese and finely chopped vegetables, offering a savory and nutritious snack option.",
+     "ingredients": {
+      "main": {
+        "1": "1/2 cup cooked quinoa",
+        "2": "1/4 cup shredded cheddar cheese",
+        "3": "1/4 cup finely chopped mixed vegetables (e.g., carrots, broccoli, bell peppers)",
+        "4": "1 egg",
+        "5": "1 tablespoon breadcrumbs",
+        "6": "A pinch of salt and pepper"
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Preheat the oven to 350°F (175°C) and grease a mini muffin tin.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "In a bowl, mix cooked quinoa, shredded cheddar cheese, chopped vegetables, egg, breadcrumbs, salt, and pepper until well combined."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Spoon the mixture into the prepared muffin tin, filling each cup to the top. Bake for 20 minutes or until golden brown and set. Allow to cool slightly before serving."
+        }
+     }
+  },
+  {
+     "id":"153",
+     "image":"https://cdn.pixabay.com/photo/2015/12/07/11/48/apple-1080688_1280.jpg",
+     "title":"Cinnamon Apple Slices",
+     "createdOn":"15 March 2024",
+     "prepTime":"25 minutes",
+     "foodType":["snack"],
+     "author":"MG Developer",
+     "authorImage":"/imgs/wade-warren.png",
+     "nutritionInfo": {
+      "calories": "50  kcal",
+      "totalFat": "0g",
+      "protein": "0g",
+      "carbohydrate": "14g",
+      "cholesterol": "0mg"
+     },
+     "description": "Crisp apple slices lightly dusted with cinnamon, providing a naturally sweet and refreshing snack for little ones.",
+     "ingredients": {
+      "main": {
+        "1": "1 apple, cored and thinly sliced",
+        "2": "1/2 teaspoon ground cinnamon"
+      },
+      "sauce": {
+        "1": "Lorem ipsum dolor sit amet",
+        "2": "Lorem ipsum dolor sit amet",
+        "3": "Lorem ipsum dolor sit amet"
+      }
+     },
+     "directions": {
+        "1": {
+          "title": "Step 1",
+          "description": "Place the apple slices in a bowl.",
+          "image": "/imgs/woman-cooking.png",
+          "imageAlt": "Woman cooking"
+        },
+        "2": {
+          "title": "Step 2",
+          "description": "Sprinkle ground cinnamon over the apple slices and toss gently to coat."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Serve immediately or refrigerate for a crispier texture."
+        }
+     }
+  },
+  {
+    "id":"152",
+    "image":"https://cdn.pixabay.com/photo/2023/07/20/11/00/salty-muffin-8139064_1280.jpg",
+    "title":"Cheesy Veggie Quinoa Bites",
+    "createdOn":"15 March 2022",
+    "prepTime":"25 minutes",
+    "foodType":["snack"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "50 kcal",
+     "totalFat": "3g",
+     "protein": "4g",
+     "carbohydrate": "12g",
+     "cholesterol": "10mg"
+    },
+    "description": "Bite-sized quinoa bites loaded with cheese and finely chopped vegetables, offering a savory and nutritious snack option.",
+    "ingredients": {
+     "main": {
+       "1": "1/2 cup cooked quinoa",
+       "2": "1/4 cup shredded cheddar cheese",
+       "3": "1/4 cup finely chopped mixed vegetables (e.g., carrots, broccoli, bell peppers)",
+       "4": "1 egg",
+       "5": "1 tablespoon breadcrumbs",
+       "6": "A pinch of salt and pepper"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "Preheat the oven to 350°F (175°C) and grease a mini muffin tin.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "In a bowl, mix cooked quinoa, shredded cheddar cheese, chopped vegetables, egg, breadcrumbs, salt, and pepper until well combined."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Spoon the mixture into the prepared muffin tin, filling each cup to the top. Bake for 20 minutes or until golden brown and set. Allow to cool slightly before serving."
+       }
+    }
+ },
+ {
+  "id":"152",
+  "image":"https://cdn.pixabay.com/photo/2023/07/20/11/00/salty-muffin-8139064_1280.jpg",
+  "title":"Cheesy Veggie Quinoa Bites",
+  "createdOn":"15 March 2022",
+  "prepTime":"25 minutes",
+  "foodType":["snack"],
+  "author":"MG Developer",
+  "authorImage":"/imgs/albert-flores.png",
+  "nutritionInfo": {
+   "calories": "50 kcal",
+   "totalFat": "3g",
+   "protein": "4g",
+   "carbohydrate": "12g",
+   "cholesterol": "10mg"
+  },
+  "description": "Bite-sized quinoa bites loaded with cheese and finely chopped vegetables, offering a savory and nutritious snack option.",
+  "ingredients": {
+   "main": {
+     "1": "1/2 cup cooked quinoa",
+     "2": "1/4 cup shredded cheddar cheese",
+     "3": "1/4 cup finely chopped mixed vegetables (e.g., carrots, broccoli, bell peppers)",
+     "4": "1 egg",
+     "5": "1 tablespoon breadcrumbs",
+     "6": "A pinch of salt and pepper"
+   },
+   "sauce": {
+     "1": "Lorem ipsum dolor sit amet",
+     "2": "Lorem ipsum dolor sit amet",
+     "3": "Lorem ipsum dolor sit amet"
+   }
+  },
+  "directions": {
+     "1": {
+       "title": "Step 1",
+       "description": "Preheat the oven to 350°F (175°C) and grease a mini muffin tin.",
+       "image": "/imgs/woman-cooking.png",
+       "imageAlt": "Woman cooking"
+     },
+     "2": {
+       "title": "Step 2",
+       "description": "In a bowl, mix cooked quinoa, shredded cheddar cheese, chopped vegetables, egg, breadcrumbs, salt, and pepper until well combined."
+     },
+     "3": {
+       "title": "Step 3",
+       "description": "Spoon the mixture into the prepared muffin tin, filling each cup to the top. Bake for 20 minutes or until golden brown and set. Allow to cool slightly before serving."
+     }
+  }
+},
+{
+  "id":"1523",
+  "image":"https://cdn.pixabay.com/photo/2021/07/12/18/30/pancake-6416439_1280.jpg",
+  "title":"Sweet Potato Pancakes",
+  "createdOn":"15 March 2022",
+  "prepTime":"25 minutes",
+  "foodType":["breakfast"],
+  "author":"MG Developer",
+  "authorImage":"/imgs/albert-flores.png",
+  "nutritionInfo": {
+   "calories": "80  kcal",
+   "totalFat": "2g",
+   "protein": "2g",
+   "carbohydrate": "15g",
+   "cholesterol": "10mg"
+  },
+  "description": "Fluffy pancakes made with mashed sweet potatoes, perfect for introducing new flavors and textures to your baby's breakfast routine.",
+  "ingredients": {
+   "main": {
+     "1": "1/2 cup mashed sweet potatoes",
+     "2": "1/4 cup whole wheat flour",
+     "3": "1 egg",
+     "4": "1 tablespoon milk (or breastmilk/formula)",
+     "5": "1/2 teaspoon baking powder",
+     "6": "1/4 teaspoon cinnamon",
+     "7": "Butter or oil for cooking"
+   },
+   "sauce": {
+     "1": "Lorem ipsum dolor sit amet",
+     "2": "Lorem ipsum dolor sit amet",
+     "3": "Lorem ipsum dolor sit amet"
+   }
+  },
+  "directions": {
+     "1": {
+       "title": "Step 1",
+       "description": "In a bowl, whisk together mashed sweet potatoes, whole wheat flour, egg, milk, baking powder, and cinnamon until smooth.",
+       "image": "/imgs/woman-cooking.png",
+       "imageAlt": "Woman cooking"
+     },
+     "2": {
+       "title": "Step 2",
+       "description": "IHeat a lightly greased skillet or griddle over medium heat. Pour about 2 tablespoons of batter onto the skillet for each pancake."
+     },
+     "3": {
+       "title": "Step 3",
+       "description": "Cook until bubbles form on the surface, then flip and cook until golden brown on both sides. Serve warm with a dollop of yogurt or fruit puree for added flavor."
+     }
+  }
+},
+{
+  "id":"152",
+  "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
+  "title":"Spinach and Cheese Omelette",
+  "createdOn":"15 March 2022",
+  "prepTime":"15 minutes",
+  "foodType":["breakfast"],
+  "author":"MG Developer",
+  "authorImage":"/imgs/albert-flores.png",
+  "nutritionInfo": {
+   "calories": "100  kcal",
+   "totalFat": "6g",
+   "protein": "8g",
+   "carbohydrate": "3g",
+   "cholesterol": "70mg"
+  },
+  "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+  "ingredients": {
+   "main": {
+     "1": "1 egg",
+     "2": "1 tablespoon milk (or breastmilk/formula)",
+     "3": "1/4 cup chopped spinach",
+     "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
+     "5": "Salt and pepper to taste",
+     "6": "Butter or oil for cooking"
+   },
+   "sauce": {
+     "1": "Lorem ipsum dolor sit amet",
+     "2": "Lorem ipsum dolor sit amet",
+     "3": "Lorem ipsum dolor sit amet"
+   }
+  },
+  "directions": {
+     "1": {
+       "title": "Step 1",
+       "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+       "image": "/imgs/woman-cooking.png",
+       "imageAlt": "Woman cooking"
+     },
+     "2": {
+       "title": "Step 2",
+       "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+     },
+     "3": {
+       "title": "Step 3",
+       "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
+     }
+  }
+},
+{
+  "id":"153",
+  "image":"https://cdn.pixabay.com/photo/2016/11/19/13/25/baking-1839248_1280.jpg",
+  "title":"Blueberry Banana Muffins",
+  "createdOn":"15 March 2022",
+  "prepTime":"35 minutes",
+  "foodType":["dessert", "breakfast"],
+  "author":"MG Developer",
+  "authorImage":"/imgs/albert-flores.png",
+  "nutritionInfo": {
+   "calories": "90 kcal",
+   "totalFat": "3g",
+   "protein": "2g",
+   "carbohydrate": "15g",
+   "cholesterol": "15mg"
+  },
+  "description": "Moist and fruity muffins made with fresh blueberries and ripe bananas, a delightful treat for breakfast or snack time.",
+  "ingredients": {
+   "main": {
+     "1": "1 ripe banana, mashed",
+     "2": "1/4 cup mashed blueberries",
+     "3": "1/4 cup whole wheat flour",
+     "4": "1/4 cup rolled oats",
+     "5": "1 egg",
+     "6": "1 tablespoon honey or maple syrup",
+     "7": "1/2 teaspoon baking powder",
+     "8": "A pinch of salt"
+   },
+   "sauce": {
+     "1": "Lorem ipsum dolor sit amet",
+     "2": "Lorem ipsum dolor sit amet",
+     "3": "Lorem ipsum dolor sit amet"
+   }
+  },
+  "directions": {
+     "1": {
+       "title": "Step 1",
+       "description": "Preheat the oven to 350°F (175°C) and line a mini muffin tin with paper liners.",
+       "image": "/imgs/woman-cooking.png",
+       "imageAlt": "Woman cooking"
+     },
+     "2": {
+       "title": "Step 2",
+       "description": "In a bowl, mix together mashed banana, mashed blueberries, whole wheat flour, rolled oats, egg, honey or maple syrup, baking powder, and salt until well combined."
+     },
+     "3": {
+       "title": "Step 3",
+       "description": "Spoon the batter into the prepared muffin tin, filling each cup about two-thirds full."
+     },
+     "4": {
+      "title": "Step 3",
+      "description": "Bake for 20 minutes or until a toothpick inserted into the center comes out clean. Allow the muffins to cool before serving. Store leftovers in an airtight container in the refrigerator for up to 3 days."
+    }
+  }
+},
+  {
+    "id":"152",
+    "image":"https://img.freepik.com/premium-photo/avocado-banana-face-mask_543222-1020.jpg",
+    "title":"Avocado Banana Mash",
+    "createdOn":"15 March 2022",
+    "prepTime":"5 minutes",
+    "foodType":["breakfast"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "100  kcal",
+     "totalFat": "6g",
+     "protein": "1g",
+     "carbohydrate": "3g",
+     "cholesterol": "0mg"
+    },
+    "description": "Creamy and nutritious mash made with ripe avocado and banana, packed with healthy fats and essential nutrients for your growing baby.",
+    "ingredients": {
+     "main": {
+       "1": "1 ripe avocado",
+       "2": "1 ripe banana",
+       "3": "Breastmilk or formula (optional, for thinning)",
+       "4": "Butter or oil for cooking"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "Peel and pit the avocado, then mash it in a bowl using a fork. Peel the banana and mash it separately, then combine it with the mashed avocado.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "If desired, thin the mixture with a small amount of breastmilk or formula to achieve the desired consistency."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Serve the avocado banana mash as is or spread it onto strips of toast for added texture."
+       }
+    }
+  },
+  {
+    "id":"154",
+    "image":"https://cdn.pixabay.com/photo/2017/03/06/12/00/bread-2121304_640.jpg",
+    "title":"Carrot Raisin Bread",
+    "createdOn":"15 March 2022",
+    "prepTime":"60 minutes",
+    "foodType":["bread"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "90   kcal",
+     "totalFat": "2g",
+     "protein": "2g",
+     "carbohydrate": "16g",
+     "cholesterol": "20 mg"
+    },
+    "description": "Moist and lightly spiced bread filled with grated carrots and plump raisins, a nutritious and flavorful option for breakfast or snack time.",
+    "ingredients": {
+     "main": {
+       "1": "1 cup grated carrots",
+       "2": "1/4 cup melted butter",
+       "3": "1/4 cup honey or maple syrup",
+       "4": "1 egg",
+       "5": "1 cup whole wheat flour",
+       "6": "1/2 teaspoon baking powder",
+       "7": "1/2 teaspoon cinnamon",
+       "8": "1/4 cup raisins",
+       "9": "A pinch of salt"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "Preheat the oven to 350°F (175°C) and grease a loaf pan. In a bowl, mix together grated carrots, melted butter, honey or maple syrup, and egg until well combined.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Add whole wheat flour, baking powder, cinnamon, raisins, and salt to the wet ingredients and stir until just combined."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Pour the batter into the prepared loaf pan and smooth the top with a spatula."
+       },
+       "4": {
+        "title": "Step 4",
+        "description": "Bake for 45 minutes or until a toothpick inserted into the center comes out clean."
+      },
+      "5": {
+        "title": "Step 5",
+        "description": "Allow the bread to cool in the pan for 10 minutes before transferring to a wire rack to cool completely."
+      }
+    }
+  },
+  {
+    "id":"154",
+    "image":"https://cdn.pixabay.com/photo/2017/06/30/21/49/bread-2459926_1280.jpg",
+    "title":"Zucchini Banana Bread",
+    "createdOn":"15 March 2022",
+    "prepTime":"65 minutes",
+    "foodType":["bread"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "100  kcal",
+     "totalFat": "6g",
+     "protein": "8g",
+     "carbohydrate": "18g",
+     "cholesterol": "20mg"
+    },
+    "description": "Moist and flavorful bread infused with the sweetness of ripe bananas and the goodness of shredded zucchini, perfect for introducing vegetables in a delicious way.",
+    "ingredients": {
+     "main": {
+       "1": "1 ripe banana, mashed",
+       "2": "1/2 cup shredded zucchini",
+       "3": "1/4 cup melted butter",
+       "4": "1/4 cup honey or maple syrup",
+       "5": "1 egg",
+       "6": "1 cup whole wheat flour",
+       "7": "1/2 teaspoon baking soda",
+       "8": "1/2 teaspoon cinnamon",
+       "9": "A pinch of salt"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "IPreheat the oven to 350°F (175°C) and grease a loaf pan.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "In a bowl, mix together mashed banana, shredded zucchini, melted butter, honey or maple syrup, and egg until well combined."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Add whole wheat flour, baking soda, cinnamon, and salt to the wet ingredients and stir until just combined."
+       },
+       "4": {
+        "title": "Step 4",
+        "description": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. Bake for 50 minutes or until a toothpick inserted into the center comes out clean."
+      },
+      "5": {
+        "title": "Step 5",
+        "description": "Allow the bread to cool in the pan for 10 minutes before transferring to a wire rack to cool completely."
+      }
+    }
+  },
+  {
+    "id":"152",
+    "image":"https://cdn.pixabay.com/photo/2015/08/18/22/56/blueberry-895000_1280.jpg",
+    "title":"Apple Cinnamon Muffins",
+    "createdOn":"15 March 2022",
+    "prepTime":"35 minutes",
+    "foodType":["bread", "dessert"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "110  kcal",
+     "totalFat": "4g",
+     "protein": "2g",
+     "carbohydrate": "18g",
+     "cholesterol": "25mg"
+    },
+    "description": "Tender muffins filled with chunks of fresh apples and fragrant cinnamon, a delightful treat for breakfast or snack time.",
+    "ingredients": {
+     "main": {
+       "1": "1 cup diced apples",
+       "2": "1/4 cup melted coconut oil",
+       "3": "1/4 cup honey or maple syrup",
+       "4": "1 egg",
+       "5": "1 cup whole wheat flour",
+       "6": "1/2 teaspoon baking soda",
+       "7": "1 teaspoon cinnamon",
+       "8": "A pinch of salt"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "Preheat the oven to 350°F (175°C) and line a muffin tin with paper liners.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
+       }
+    }
+  },
+  {
+    "id":"152",
+    "image":"https://cdn.pixabay.com/photo/2022/12/14/14/09/fried-meatballs-7655458_1280.jpg",
+    "title":"Turkey and Sweet Potato Meatballs",
+    "createdOn":"15 March 2022",
+    "prepTime":"35 minutes",
+    "foodType":["meat"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "90  kcal",
+     "totalFat": "4g",
+     "protein": "8g",
+     "carbohydrate": "5g",
+     "cholesterol": "30mg"
+    },
+    "description": "Tender and flavorful meatballs made with lean ground turkey and mashed sweet potatoes, packed with protein and essential nutrients for your little one.",
+    "ingredients": {
+     "main": {
+       "1": "1/2 cup mashed sweet potatoes",
+       "2": "1/2 lb lean ground turkey",
+       "3": "1/4 cup breadcrumbs",
+       "4": "1 egg",
+       "5": "1/2 teaspoon garlic powder",
+       "6": "1/2 teaspoon dried parsley",
+       "7": "Salt and pepper to taste"
+       
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "In a large bowl, mix together mashed sweet potatoes, ground turkey, breadcrumbs, egg, garlic powder, dried parsley, salt, and pepper until well combined."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Shape the mixture into small meatballs and place them on the prepared baking sheet."
+       },
+       "4": {
+        "title": "Step 4",
+        "description": "Bake for 20 minutes or until cooked through and golden brown."
+      },
+      "5": {
+        "title": "Step 5",
+        "description": "Allow the meatballs to cool slightly before serving. Serve with a side of mashed avocado or yogurt for added flavor."
+      }
+    }
+  },
+  {
+    "id":"155",
+    "image":"https://cdn.pixabay.com/photo/2016/04/26/06/28/daljjim-1353710_1280.jpg",
+    "title":"Chicken and Vegetable Casserole",
+    "createdOn":"15 March 2022",
+    "prepTime":"50 minutes",
+    "foodType":["meat"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "130   kcal",
+     "totalFat": "5g",
+     "protein": "12g",
+     "carbohydrate": "10g",
+     "cholesterol": "40mg"
+    },
+    "description": "Comforting casserole filled with tender chunks of chicken breast and a medley of vegetables, a hearty and nutritious meal for your little one.",
+    "ingredients": {
+     "main": {
+       "1": "1/2 lb boneless, skinless chicken breast, diced",
+       "2": "1 cup mixed vegetables (e.g., peas, carrots, corn)",
+       "3": "1/2 cup chicken broth (low-sodium)",
+       "4": "2 tablespoons flour",
+       "5": "1 tablespoon olive oil",
+       "6": "1/2 teaspoon dried thyme",
+       "7": "Salt and pepper to taste"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "Preheat the oven to 375°F (190°C) and lightly grease a baking dish.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Heat olive oil in a skillet over medium heat. Add diced chicken breast and cook until browned on all sides."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Stir in mixed vegetables and dried thyme, and cook for another 3-4 minutes."
+       },
+       "4": {
+        "title": "Step 4",
+        "description": "Sprinkle flour over the chicken and vegetable mixture, stirring to coat evenly. "
+      },
+      "5": {
+        "title": "Step 5",
+        "description": "Gradually pour in chicken broth and milk, stirring constantly until the sauce thickens."
+      },
+      "6": {
+        "title": "Step 6",
+        "description": "Transfer the mixture to the prepared baking dish and bake for 25-30 minutes, or until bubbly and golden brown on top."
+      },
+      "7": {
+        "title": "Step 7",
+        "description": "Allow the casserole to cool slightly before serving. Serve as is or with a side of mashed potatoes or rice for a complete meal."
+      }
+    }
+  },
+  {
+    "id":"156",
+    "image":"https://cdn.pixabay.com/photo/2020/12/18/13/57/quesadilla-5842087_640.jpg",
+    "title":"Chicken and Spinach Quesadillas",
+    "createdOn":"15 March 2022",
+    "prepTime":"25 minutes",
+    "foodType":["meat"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "130   kcal",
+     "totalFat": "6g",
+     "protein": "8g",
+     "carbohydrate": "10 g",
+     "cholesterol": "25mg"
+    },
+    "description": "Cheesy quesadillas filled with tender chicken and nutritious spinach, a fun and tasty way to introduce new flavors to your baby.",
+    "ingredients": {
+     "main": {
+       "1": "1/2 cup cooked shredded chicken breast",
+       "2": "1/4 cup chopped spinach",
+       "3": "2 small whole wheat tortillas",
+       "4": "1/4 cup shredded cheddar cheese",
+       "5": "Cooking spray"
+       
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "In a bowl, mix together shredded chicken breast and chopped spinach until well combined.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Place one tortilla on a flat surface and sprinkle half of the shredded cheddar cheese evenly over the tortilla."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Spread the chicken and spinach mixture over the cheese, then sprinkle the remaining cheese on top."
+       },
+       "4": {
+        "title": "Step 4",
+        "description": "Place the second tortilla over the filling to create a sandwich."
+      },
+      "5": {
+        "title": "Step 5",
+        "description": "Heat a skillet over medium heat and lightly coat with cooking spray. Carefully transfer the quesadilla to the skillet and cook for 2-3 minutes on each side, or until the tortilla is golden brown and the cheese is melted."
+      },
+      "6": {
+        "title": "Step 6",
+        "description": "Remove from the skillet and let cool slightly before slicing into wedges. Serve with a side of mashed avocado or salsa for dipping."
+      }
+    }
+  },
+  {
+    "id":"152",
+    "image":"https://cdn.pixabay.com/photo/2016/01/11/07/12/fish-nugget-1133143_1280.jpg",
+    "title":"Baked Salmon Nuggets",
+    "createdOn":"15 March 2022",
+    "prepTime":"25 minutes",
+    "foodType":["meat"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "90   kcal",
+     "totalFat": "4g",
+     "protein": "10g",
+     "carbohydrate": "34gg",
+     "cholesterol": "25mg"
+    },
+    "description": "Tender salmon nuggets coated in a crispy breadcrumb crust, perfect for tiny fingers and introducing your baby to the delicious taste of fish.",
+    "ingredients": {
+     "main": {
+       "1": "1/2 lb salmon fillet, skin removed",
+       "2": "1/4 cup breadcrumbs",
+       "3": "1 tablespoon grated Parmesan cheese",
+       "4": "1/2 teaspoon dried dill",
+       "5": "1 egg, beaten",
+       "6": "Cooking spray"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "Preheat the oven to 400°F (200°C) and line a baking sheet with parchment paper.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Cut the salmon into small, bite-sized pieces, about 1-inch cubes."
+       },
+       "3": {
+         "title": "Step 4",
+         "description": "Dip each salmon piece into the beaten egg, then coat with the breadcrumb mixture, pressing gently to adhere."
+       },
+       "4": {
+        "title": "Step 5",
+        "description": "Place the coated salmon nuggets on the prepared baking sheet and lightly spray the tops with cooking spray."
+      },
+      "5": {
+        "title": "Step 6",
+        "description": "Bake for 10-12 minutes, or until the nuggets are golden brown and cooked through."
+      },
+      "6": {
+        "title": "Step 7",
+        "description": "Let cool slightly before serving. Serve with a side of mashed avocado or yogurt for dipping."
+      }
+    }
+      
+      },
+      {
+        "id":"152",
+        "image":"https://cdn.pixabay.com/photo/2018/02/27/18/41/muesli-3186256_640.jpg",
+        "title":"Apple Cinnamon Oatmeal",
+        "createdOn":"15 March 2024",
+        "prepTime":"10  minutes",
+        "foodType":["breakfast"],
+        "author":"MG Developer",
+        "authorImage":"/imgs/albert-flores.png",
+        "nutritionInfo": {
+         "calories": "120 kcal",
+         "totalFat": "2g",
+         "protein": "3g",
+         "carbohydrate": "25g",
+         "cholesterol": "0mg"
+        },
+        "description": "Warm and comforting oatmeal infused with the natural sweetness of apples and a hint of cinnamon, a wholesome breakfast option for chilly mornings.",
+        "ingredients": {
+         "main": {
+           "1": "1/4 cup rolled oats",
+           "2": "1/2 cup water or breastmilk",
+           "3": "1/4 cup grated apple",
+           "4": "1/4 teaspoon cinnamon"
+           
+         },
+         "sauce": {
+           "1": "Lorem ipsum dolor sit amet",
+           "2": "Lorem ipsum dolor sit amet",
+           "3": "Lorem ipsum dolor sit amet"
+         }
+        },
+        "directions": {
+           "1": {
+             "title": "Step 1",
+             "description": "In a small saucepan, bring water or breastmilk to a boil.",
+             "image": "/imgs/woman-cooking.png",
+             "imageAlt": "Woman cooking"
+           },
+           "2": {
+             "title": "Step 2",
+             "description": "Stir in rolled oats, grated apple, and cinnamon."
+           },
+           "3": {
+             "title": "Step 4",
+             "description": "Reduce heat to low and simmer, stirring occasionally, for 5-7 minutes or until the oats are cooked and the mixture is thickened."
+           },
+           "4": {
+            "title": "Step 5",
+            "description": "Place the coated salmon nuggets on the prepared baking sheet and lightly spray the tops with cooking spray."
+          },
+          "5": {
+            "title": "Step 6",
+            "description": "Remove from heat and let cool slightly before serving. Add breastmilk or formula to adjust the consistency if needed."
+        
+          
+          }
+        }
+      
+      },
+      {
+        "id":"152",
+        "image":"https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg",
+        "title":"Sweet Potato Pancakes",
+        "createdOn":"15 March 2024",
+        "prepTime":"25  minutes",
+        "foodType":["breakfast"],
+        "author":"MG Developer",
+        "authorImage":"/imgs/albert-flores.png",
+        "nutritionInfo": {
+         "calories": "100  kcal",
+         "totalFat": "2g",
+         "protein": "3g",
+         "carbohydrate": "25g",
+         "cholesterol": "0mg"
+        },
+        "description": "Soft and nutritious pancakes made with mashed sweet potatoes, perfect for introducing vegetables in a delicious way to your baby's breakfast.",
+        "ingredients": {
+         "main": {
+           "1": "1/2 cup mashed sweet potatoes",
+           "2": "1/4 cup whole wheat flour",
+           "3": "1 egg",
+           "4": "1/4 teaspoon cinnamon",
+           "5": "Butter or oil for cooking"
+           
+         },
+         "sauce": {
+           "1": "Lorem ipsum dolor sit amet",
+           "2": "Lorem ipsum dolor sit amet",
+           "3": "Lorem ipsum dolor sit amet"
+         }
+        },
+        "directions": {
+           "1": {
+             "title": "Step 1",
+             "description": "In a bowl, mix together mashed sweet potatoes, whole wheat flour, egg, and cinnamon until well combined.",
+             "image": "/imgs/woman-cooking.png",
+             "imageAlt": "Woman cooking"
+           },
+           "2": {
+             "title": "Step 2",
+             "description": "Heat a skillet or griddle over medium heat and lightly grease with butter or oil."
+           },
+           "3": {
+             "title": "Step 4",
+             "description": "Pour small amounts of batter onto the skillet to form pancakes."
+           },
+           "4": {
+            "title": "Step 5",
+            "description": "Cook for 2-3 minutes on each side, or until golden brown and cooked through."
+          },
+          "5": {
+            "title": "Step 6",
+            "description": "Serve warm with a drizzle of maple syrup or yogurt for added flavor."
+        
+          
+          }
+        }
+      },
+          {
+            "id":"152",
+            "image":"https://cdn.pixabay.com/photo/2017/04/26/17/16/stick-2263070_640.jpg",
+            "title":"Apple Cinnamon Breadsticks",
+            "createdOn":"15 March 2024",
+            "prepTime":"25  minutes",
+            "foodType":["bread"],
+            "author":"MG Developer",
+            "authorImage":"/imgs/albert-flores.png",
+            "nutritionInfo": {
+             "calories": "70 kcal",
+             "totalFat": "1g",
+             "protein": "3g",
+             "carbohydrate": "14g",
+             "cholesterol": "10mg"
+            },
+            "description": "Chewy and aromatic breadsticks infused with the sweetness of apples and a hint of cinnamon, perfect for little ones exploring new textures.",
+            "ingredients": {
+             "main": {
+               "1": "1/2 cup grated apple",
+               "2": "1/4 cup whole wheat flour",
+               "3": "1/4 cup oat flour",
+               "4": "1 egg",
+               "5": "1 tablespoon honey",
+               "6": "1/2 teaspoon cinnamon",
+               "7": "Pinch of salt"
+
+               
+             },
+             "sauce": {
+               "1": "Lorem ipsum dolor sit amet",
+               "2": "Lorem ipsum dolor sit amet",
+               "3": "Lorem ipsum dolor sit amet"
+             }
+            },
+            "directions": {
+               "1": {
+                 "title": "Step 1",
+                 "description": "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+                 "image": "/imgs/woman-cooking.png",
+                 "imageAlt": "Woman cooking"
+               },
+               "2": {
+                 "title": "Step 2",
+                 "description": "In a bowl, mix together grated apple, whole wheat flour, oat flour, egg, melted butter, honey, cinnamon, and salt until well combined."
+               },
+               "3": {
+                 "title": "Step 3",
+                 "description": "Transfer the batter to a piping bag fitted with a round tip."
+               },
+               "4": {
+                "title": "Step 4",
+                "description": "Pipe the batter onto the prepared baking sheet to form breadsticks, leaving space between each stick."
+              },
+              "5": {
+                "title": "Step 5",
+                "description": "Bake for 10-12 minutes, or until golden brown and firm to the touch."
+                          
+              },
+              
+              "6": {
+                "title": "Step 6",
+                "description": "BLet cool for a few minutes before serving. Serve as is or with a side of applesauce for dipping."
+            }
+          }
+          },
+              {
+                "id":"152",
+                "image":"https://cdn.pixabay.com/photo/2021/04/30/12/01/mashed-sweet-potato-6218759_1280.jpg",
+                "title":"Chicken and Vegetable Puree",
+                "createdOn":"15 March 2024",
+                "prepTime":"45  minutes",
+                "foodType":["meat"],
+                "author":"MG Developer",
+                "authorImage":"/imgs/albert-flores.png",
+                "nutritionInfo": {
+                 "calories": "90 kcal",
+                 "totalFat": "3g",
+                 "protein": "8 g",
+                 "carbohydrate": "8g",
+                 "cholesterol": "25mg"
+                },
+                "description": "Smooth and velvety puree made with tender chicken and a medley of colorful vegetables, providing essential nutrients for your baby's growth.",
+                "ingredients": {
+                 "main": {
+                   "1": "1/4 lb boneless, skinless chicken breast",
+                   "2": "1/2 cup chopped vegetables (carrots, peas, broccoli)",
+                   "3": "1 cup low-sodium chicken broth",
+                   "4": "1/4 teaspoon cinnamon",
+                   "5": "Olive oil for cooking"
+                   
+                 },
+                 "sauce": {
+                   "1": "Lorem ipsum dolor sit amet",
+                   "2": "Lorem ipsum dolor sit amet",
+                   "3": "Lorem ipsum dolor sit amet"
+                 }
+                },
+                "directions": {
+                   "1": {
+                     "title": "Step 1",
+                     "description": "In a saucepan, heat a small amount of olive oil over medium heat.",
+                     "image": "/imgs/woman-cooking.png",
+                     "imageAlt": "Woman cooking"
+                   },
+                   "2": {
+                     "title": "Step 2",
+                     "description": "Add chicken breast to the pan and cook until browned on both sides, about 5-7 minutes."
+                   },
+                   "3": {
+                     "title": "Step 4",
+                     "description": "Remove the chicken from the pan and set aside. In the same pan, add chopped vegetables and sauté until tender, about 5 minutes."
+                   },
+                   "4": {
+                    "title": "Step 5",
+                    "description": "Remove from heat and let cool slightly. Transfer the mixture to a blender or food processor and blend until smooth."
+                  },
+                  "5": {
+                    "title": "Step 6",
+                    "description": "Serve warm or at room temperature."
+     
+    }
+  }
+},
+    {
+      "id":"152",
+      "image":"https://cdn.pixabay.com/photo/2019/09/28/21/04/meatballs-4511773_640.jpg",
+      "title":"Beef and Spinach Meatballs",
+      "createdOn":"15 March 2024",
+      "prepTime":"35  minutes",
+      "foodType":["meat"],
+      "author":"MG Developer",
+      "authorImage":"/imgs/albert-flores.png",
+      "nutritionInfo": {
+       "calories": "120 kcal",
+       "totalFat": "6 g",
+       "protein": "8 g",
+       "carbohydrate": "8 g",
+       "cholesterol": "30 mg"
+      },
+      "description": "Juicy and flavorful meatballs made with lean ground beef and nutrient-rich spinach, perfect for little ones learning to self-feed.",
+      "ingredients": {
+       "main": {
+         "1": "1/2 cup grated apple",
+         "2": "1/4 cup whole wheat flour",
+         "3": "1/4 cup oat flour",
+         "4": "1 egg",
+         "5": "1 tablespoon honey",
+         "6": "1/2 teaspoon cinnamon",
+         "7": "Pinch of salt"
+
+         
+       },
+       "sauce": {
+         "1": "Lorem ipsum dolor sit amet",
+         "2": "Lorem ipsum dolor sit amet",
+         "3": "Lorem ipsum dolor sit amet"
+       }
+      },
+      "directions": {
+         "1": {
+           "title": "Step 1",
+           "description": "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+           "image": "/imgs/woman-cooking.png",
+           "imageAlt": "Woman cooking"
+         },
+         "2": {
+           "title": "Step 2",
+           "description": "In a bowl, combine ground beef, chopped spinach, breadcrumbs, egg, and garlic powder until well mixed."
+         },
+         "3": {
+           "title": "Step 3",
+           "description": "Shape the mixture into small meatballs, about 1 inch in diameter, and place them on the prepared baking sheet."
+         },
+         "4": {
+          "title": "Step 4",
+          "description": "Bake for 12-15 minutes, or until the meatballs are cooked through and lightly browned."
+        },
+        "5": {
+          "title": "Step 5",
+          "description": "Let cool slightly before serving. Serve as is or with a side of mashed potatoes or steamed vegetables."
+                    
+        },
+        
+        "6": {
+          "title": "Step 6",
+          "description": "Enjoi it!."
+      }
+   }
+
+}
+
+]

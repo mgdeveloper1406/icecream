@@ -1,0 +1,60 @@
+.tryOutRecipes {
+  display: grid;
+  gap: 2.5rem;
+
+  &__container {
+    display: grid;
+    gap: 4rem;
+    place-items: center;
+    margin: 6rem 0;
+  }
+
+  &__header {
+    display: grid;
+    gap: 2rem;
+    place-items: center;
+  }
+
+  &__title {
+    font-size: clamp(var(--text-2xlarge), 4vw, var(--text-4xlarge));
+    font-weight: var(--font-semibold);
+    letter-spacing: -0.04em;
+  }
+
+  &__text {
+    color: var(--grey-2);
+    font-size: clamp(var(--text-small), 3vw, var(--text-base));
+    font-weight: var(--font-regular);
+    line-height: 28px;
+    max-width: 620px;
+  }
+}
+
+@media (min-width: 700px) {
+  .tryOutRecipes {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1050px) {
+  .tryOutRecipes {
+    grid-template-columns: repeat(3, 1fr);
+
+    &__container {
+      margin: 10rem 0;
+    }
+  }
+}
+
+@media (min-width: 1422px) {
+  .tryOutRecipes {
+    grid-template-columns: repeat(4, 1fr);
+
+    &__header {
+      display: flex;
+      gap: 0;
+      justify-content: space-between;
+      text-align: left;
+    }
+  }
+}

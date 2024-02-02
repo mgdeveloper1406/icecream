@@ -1,0 +1,116 @@
+.tastyRecipes {
+    margin: 0 auto;
+    margin-bottom: 20px;
+
+    &__title {
+        font-size: var(--text-2xlarge);
+        margin-bottom: 40px;
+    }
+
+    &__list {
+        list-style: none;
+        text-align: start;
+        max-width: 222px;
+        margin: 0 auto;
+
+        &Item {
+            margin-top: 15px;
+        }
+    }
+
+    &__link {
+        text-decoration: none;
+        cursor: pointer;
+
+        &:link {
+        color: var(--black);
+        }
+
+        &:visited {
+        color: var(--black);
+        }
+    }
+
+    &__image {
+        border-radius: 20px;
+        display: block;
+        margin: auto;
+    }
+
+    &__author {
+        color: var(--grey-2);
+        font-size: var(--text-small);
+        font-weight: var(--font-medium);
+        padding: 25px 0;
+
+        &Title {
+            font-size: var(--text-large);
+            letter-spacing: -0.016cm;
+            padding: 10px 0;
+        }
+
+        &Container {
+            display: flex;
+            flex-direction: column;
+            padding: 10px 0;
+        }
+    }
+}
+
+@media (min-width:600px) {
+
+    .tastyRecipes {
+        max-width: 490px;
+
+        &__title {
+            display: flex;
+            justify-content: center;
+        }
+
+        &__list {
+            display: flex;
+            flex-direction: column;
+            max-width: 100%;
+        }
+
+        &__link {
+            display: flex;
+            align-items: right;
+            margin: 24px 0 0;
+        }
+
+        &__image {
+            display: flex;
+            margin-right: 24px;
+        }
+
+        &__author {
+            display: flex;
+            padding: 8px;
+            padding-left: 0;
+
+            &Title {
+                padding-bottom: 5px;
+                padding-top: 0;
+            }
+
+            &Container {
+                padding: 0;
+                align-content: left;
+                justify-content: center;
+            }
+        }
+    }
+}
+
+@media(min-width: 1400px) {
+
+    .tastyRecipes {
+        margin-bottom: 60px;
+
+        &__title {
+            justify-content: start;
+            margin-bottom: 10px;
+        }
+    }
+}

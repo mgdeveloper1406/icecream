@@ -1,0 +1,9 @@
+/*this class do not apply to 4th child 
+(Check out instagram sections). It needs to touch page margin.*/
+
+.homePage > *:not(:nth-child(4)) {
+  margin-right: auto; /* it has to explicitly be declared this way (right and left, separately) to not affect margin top and bottom of components */
+  margin-left: auto;
+  width: 90%;
+  max-width: 1280px;
+}

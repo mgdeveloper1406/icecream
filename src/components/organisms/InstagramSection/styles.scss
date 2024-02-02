@@ -1,0 +1,50 @@
+.instagramSection {
+  list-style: none;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%);
+  display: grid;
+  place-items: center;
+
+  &__carouselContainer {
+    max-width: 1280px;
+  }
+
+  &__title {
+    font-size: clamp(var(--text-2xlarge), 4vw, var(--text-4xlarge));
+    font-weight: var(--font-semibold);
+    margin-bottom: 24px;
+  }
+
+
+  &__paragraph {
+    color: var(--grey-2);
+  }
+
+  &__titleLink {
+    text-decoration: none;
+    color: var(--black);
+
+  }
+
+  &__button {
+    background: var(--black);
+    border-radius: 16px;
+    border: none;
+    color: var(--white);
+    font-family: var(--main-font-family);
+    font-size: var(--text-base);
+    padding: 20px;
+    width: 100%;
+    max-width: 230px;
+    cursor: pointer;
+    margin-bottom: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  &__button:hover {
+    opacity: .8;
+  }
+
+
+}

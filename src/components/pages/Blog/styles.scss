@@ -1,0 +1,20 @@
+.blogPage {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 1310px;
+}
+
+@media (min-width: 1400px) {
+  .blogPage__mainContent {
+    display: grid;
+    grid-template-columns: calc(66% - 15px) calc(34% - 15px);
+    gap: 30px;
+  }
+
+  .blogPage__aside {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: start;
+    
+  }
+}

@@ -1,0 +1,29 @@
+.recipePage {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 1280px;
+
+  &__aside {
+    display: grid;
+    gap: 20px;
+  }
+}
+
+@media (min-width: 1040px) {
+  .recipePage { 
+    &__aside {
+      gap: 40px;
+    }
+  }
+}
+
+@media (min-width: 1280px) {
+  .recipePage { 
+    &__columns {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 40px;
+      align-items: start;
+    }
+  }
+}

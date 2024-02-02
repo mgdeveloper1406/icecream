@@ -1,0 +1,161 @@
+.recipeHeader {
+  padding: 40px 0;
+
+  &__title {
+    font-size: clamp(var(--text-3xlarge), 5vw, var(--text-5xlarge));
+    font-weight: var(--font-semibold);
+    text-align: left;
+    padding-bottom: 30px;
+  }
+
+  &__subHeader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &__author {
+    display: grid;
+    gap: 8px;
+
+    &Column {
+      padding-right: 20px;
+    }
+
+    &Name {
+      font-size: clamp(var(--text-xsmall), 2vw, var(--text-base));
+      font-weight: var(--font-bold);
+      padding-top: 16px;
+    }
+  }
+
+  &__date {
+    color: var(--grey-2);
+    font-size: clamp(var(--text-xsmall), 1.6vw, var(--text-small));
+    font-weight: var(--font-medium);
+  }
+
+  &__prepTime {
+    display: grid;
+    gap: 8px;
+    font-weight: var(--font-medium);
+
+    &Column {
+      border-left: 1px solid var(--grey-light);
+      border-right: 1px solid var(--grey-light);
+      padding: 0 20px;
+    }
+
+    &Title {
+      font-size: clamp(var(--text-xsmall), 1.6vw, var(--text-small));
+      text-transform: uppercase;
+      padding-top: 16px;
+    }
+
+    &Value {
+      color: var(--grey-2); 
+      font-size: clamp(var(--text-xsmall), 2vw, var(--text-base));
+    }
+  }
+
+  &__foodType {
+    color: var(--grey-2);
+    font-size: clamp(var(--text-xsmall), 1.6vw, var(--text-small));
+    font-weight: var(--font-medium);
+    padding-left: 8px;
+    text-transform: capitalize;
+
+    &Column {
+      display: flex;
+      align-items: center;
+      padding-left: 20px;
+    }
+  }
+}
+
+@media (min-width: 500px) {
+  .recipeHeader {
+
+    &__subHeader {
+      justify-content: left;
+    }
+
+    &__author {
+      text-align: left;
+      padding-left: 8px;
+
+      &Column {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-right: 30px;
+      }
+  
+      &Name {
+        padding-top: 0;
+      }
+    }
+  
+    &__prepTime {
+      text-align: left;
+      padding-left: 8px;
+  
+      &Column {
+        display: flex;
+        align-items: center;
+        padding: 0 30px;
+      }
+  
+      &Title {
+        padding-top: 0;
+      }
+    }
+  
+    &__foodType {
+      padding-left: 8px;
+  
+      &Column {
+        padding-left: 30px;
+      }
+    }
+  }
+}
+
+@media (min-width: 700px) {
+  .recipeHeader {
+
+    &__author {
+      padding-left: 16px;
+
+      &Column {
+        padding-right: 60px;
+      }
+    }
+  
+    &__prepTime {
+      padding-left: 20px;
+  
+      &Column {
+        padding: 0 60px;
+      }
+    }
+  
+    &__foodType {
+      padding-left: 20px;
+  
+      &Column {
+        padding-left: 60px;
+      }
+    }
+  }
+}
+
+@media (min-width: 1040px) {
+  .recipeHeader {
+    padding: 80px 0;
+  
+    &__title {
+      padding-bottom: 48px;
+    }
+  }
+}

@@ -1,0 +1,18 @@
+.recipeNutritionItem {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  color: var(--grey-2);
+  font-size: clamp(var(--text-small), 2vw, var(--text-medium));
+  font-weight: var(--font-medium);
+  border-bottom: 1px solid var(--grey-light);
+  padding: 16px 0;
+
+  &__name {
+    text-transform: capitalize;
+  }
+
+  &__value {
+    text-transform: lowercase;
+  }
+}

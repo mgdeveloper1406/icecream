@@ -1,0 +1,57 @@
+.simpleTastyRecipes {
+  display: grid;
+  gap: 2.5rem;
+
+  &__container {
+    display: grid;
+    gap: 3rem;
+    place-items: center;
+    margin-bottom: 7rem;
+  }
+
+  &__header {
+    display: grid;
+    gap: 1.5rem;
+    place-items: center;
+  }
+
+  &__title {
+    font-size: clamp(var(--text-2xlarge), 4vw, var(--text-4xlarge));
+    font-weight: var(--font-semibold);
+    letter-spacing: -0.04em;
+  }
+
+  &__text {
+    color: var(--grey-2);
+    font-size: clamp(var(--text-small), 3vw, var(--text-base));
+    font-weight: var(--font-regular);
+    line-height: 28px;
+    max-width: 700px;
+  }
+}
+
+@media (min-width: 800px) {
+  .simpleTastyRecipes {
+    grid-template-columns: repeat(2, 1fr);
+
+    &__advertising {
+      grid-column: span 2;
+    }
+  }
+}
+
+@media (min-width: 1280px) {
+  .simpleTastyRecipes {
+    grid-template-columns: repeat(3, 1fr);
+
+    &__container {
+      gap: 6rem;
+      margin-bottom: 8rem;
+    }
+
+    &__advertising {
+      grid-column: 3 / 4;
+      grid-row: 2 / 3;
+    }
+  }
+}

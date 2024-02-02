@@ -1,0 +1,34 @@
+.recipeIngredients {
+  text-align: left;
+  margin-bottom: 60px;
+
+  &__title {
+    font-size: clamp(var(--text-xlarge), 4vw, var(--text-3xlarge));
+    font-weight: var(--font-semibold);
+    margin-bottom: 28px;
+  }
+
+  &__subtitle {
+    font-size: clamp(var(--text-medium), 3vw, var(--text-xlarge));
+    font-weight: var(--font-semibold);
+    
+  }
+
+  &__main {
+    margin-bottom: 40px;
+  }
+}
+
+@media (min-width: 1040px) {
+  .recipeIngredients {
+    margin-bottom: 80px;
+
+    &__title {
+      margin-bottom: 48px;
+    }
+
+    &__main {
+      margin-bottom: 60px;
+    }
+  }
+}

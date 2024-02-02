@@ -1,0 +1,22 @@
+.checkoutRecipes {
+  margin-bottom: 50px;
+
+  &__title {
+    display: none;
+  }
+}
+
+@media (min-width: 1024px) {
+  .checkoutRecipes {
+    margin-bottom: 130px;
+
+    &__title {
+      display: block;
+      text-align: center;
+      padding-top: 40px;
+      margin-bottom: 50px;
+      font-size: var(--text-2xlarge);
+      font-weight: var(--font-semibold);
+    }
+  }
+}

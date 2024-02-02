@@ -1,0 +1,15 @@
+.recipeDirections {
+  text-align: left;
+  margin-bottom: 60px;
+
+  &__title {
+    font-size: clamp(var(--text-xlarge), 4vw, var(--text-3xlarge));
+    font-weight: var(--font-semibold);
+  }
+}
+
+@media (min-width: 1280px) {
+  .recipeDirections {
+    margin-bottom: 160px;
+  }
+}

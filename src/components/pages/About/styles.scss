@@ -1,0 +1,17 @@
+.aboutPage {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 1280px;
+
+  // under construction
+  &__text {
+    font-size: clamp(var(--text-large), 4vw, var(--text-3xlarge));
+    font-weight: var(--font-bold);
+  }
+
+  &__underConstruction {
+    display: grid;
+    place-items: center;
+    height: 80vh;
+  }
+}

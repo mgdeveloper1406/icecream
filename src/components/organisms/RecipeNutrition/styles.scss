@@ -1,0 +1,24 @@
+.recipeNutrition {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 350px;
+  min-height: 400px;
+  background-color: var(--blue-2);
+  border: none;
+  border-radius: 30px;
+  padding: 32px;
+  
+  &__title {
+    font-size: clamp(var(--text-large), 2.8vw, var(--text-xlarge));
+    font-weight: var(--font-semibold);
+    text-align: left;
+    padding-bottom: 8px;
+  }
+
+  &__footer {
+    color: var(--grey-2);
+    font-size: clamp(var(--text-xsmall), 1.8vw, var(--text-base));
+    padding-top: 40px;
+  }
+}
