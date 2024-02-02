@@ -6,7 +6,7 @@
      "createdOn":"15 March 2024",
      "prepTime":"10 minutes",
      "chill Time": "4 hours",
-     "foodType":["healthy", "breakfast", "vegetarian"],
+     "foodType":["creamy"],
      "author":"MG Developer",
      "authorImage":"/imgs/robert-fox.png",
      "nutritionInfo": {
