@@ -7,9 +7,9 @@ const CategoriesData = [
   },
   {
     id: '2',
-    categoryName: 'Gelato',
+    categoryName: 'Fruits',
     cardColor: 'green',
-    icon: 'https://png.pngtree.com/png-clipart/20220918/original/pngtree-toast-icon-illustrasion-png-image_8622483.png'
+    icon: 'https://img.lovepik.com/free-png/20211207/lovepik-fruit-ice-cream-png-image_401394584_wh1200.png'
   },
   {
     id: '3',
