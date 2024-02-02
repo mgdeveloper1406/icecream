@@ -4,8 +4,7 @@
      "image":"https://cdn.pixabay.com/photo/2016/06/07/01/49/ice-cream-1440830_640.jpg",
      "title":"Vanilla Bean Ice Cream",
      "createdOn":"15 March 2024",
-     "prepTime":"10 minutes",
-     "chill Time": "4 hours",
+     "prepTime":"4 hours",
      "foodType":["creamy"],
      "author":"MG Developer",
      "authorImage":"/imgs/robert-fox.png",
@@ -34,43 +33,65 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Mash the banana in a bowl.",
+          "description": "In a saucepan, heat the heavy cream, whole milk, sugar, vanilla bean seeds, and pinch of salt over medium heat until sugar dissolves and mixture is steaming.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Add the egg and oat flour, mix until well combined."
+          "description": "Remove from heat and let cool to room temperature."
         },
         "3": {
           "title": "Step 3",
-          "description": "Spoon small portions onto a heated skillet and cook until golden on both sides."
-        }
+          "description": "Cover and refrigerate for at least 4 hours or overnight."
+      
+      },
+      "4": {
+        "title": "Step 4",
+        "description": "Once chilled, pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
+      },
+      "5": {
+        "title": "Step 5",
+        "description": "Transfer churned ice cream to a freezer-safe container and freeze for a few hours until firm."
+      },
+      "6": {
+        "title": "Step 6",
+        "description": "Serve and enjoy!."
+      }
      }
   },
   {
      "id":"2",
-     "image":"https://cdn.pixabay.com/photo/2023/05/24/16/32/muffin-8015288_640.jpg",
-     "title":"Blueberry Oat Muffins",
+     "image":"https://www.shutterstock.com/image-photo/scoop-chocolate-chip-cookie-dough-600nw-1463177540.jpg",
+     "title":"Chocolate Chip Cookie Dough Ice Cream",
      "createdOn":"15 March 2024",
-     "prepTime":"20 minutes",
-     "foodType":["healthy", "breakfast", "snack"],
+     "prepTime":"4 hours",
+     "foodType":["creamy"],
      "author":"MG Developer",
      "authorImage":"/imgs/dianne-russel.png",
      "nutritionInfo": {
-      "calories": "70  kcal",
-      "totalFat": "2g",
-      "protein": "2g",
-      "carbohydrate": "12g",
-      "cholesterol": "0,03 mg"
+      "calories": "280 cal",
+      "totalFat": "17g",
+      "protein": "4g",
+      "carbohydrate": "30g",
+      "cholesterol": "85mg"
      },
-     "description": "Nutrient-packed muffins made with oats and fresh blueberries, introducing texture and flavor.",
+     "description": "Rich and creamy chocolate ice cream with chunks of homemade chocolate chip cookie dough mixed in.",
      "ingredients": {
       "main": {
-        "1": "1 cup rolled oats",
-        "2": "1 ripe banana",
+        "1": "2 cups heavy cream",
+        "2": "1 cup whole milk",
         "3": "1/2 cup blueberries",
-        "4": "1/4 cup milk (of your choice"
+        "4": "3/4 cup granulated sugar",
+        "5": "1/4 cup cocoa powder",
+        "6": "For the cookie dough:",
+        "7": "1/4 cup unsalted butter, softened",
+        "8": "1/4 cup packed brown sugar",
+        "9": "2 tablespoons granulated sugar",
+        "10": "1/2 teaspoon vanilla extract",
+        "11": "1/2 cup all-purpose flour",
+        "12": "Pinch of salt",
+        "13": "2 tablespoons milk"
         
       },
       "sauce": {
@@ -82,41 +103,77 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Blend oats into a flour-like consistency.",
+          "description": "Prepare the cookie dough: In a bowl, cream together the butter, brown sugar, and granulated sugar until light and fluffy. Add the vanilla extract and mix until combined.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Mash the banana and mix with oats, blueberries, and milk."
+          "description": "Gradually add the flour and salt, mixing until a dough forms. If too dry, add milk, one tablespoon at a time, until the dough comes together."
         },
         "3": {
           "title": "Step 3",
-          "description": "Spoon into muffin cups and bake at 350°F (175°C) for 15-20 minutes."
+          "description": "Fold in the chocolate chips. Roll the dough into small balls and place on a baking sheet lined with parchment paper. Freeze until firm."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "In a saucepan, heat the heavy cream, whole milk, sugar, and cocoa powder over medium heat until sugar dissolves and mixture is steaming."
+        },
+        "5": {
+          "title": "Step 5",
+          "description": "Remove from heat and let cool to room temperature."
+        },
+        "6": {
+          "title": "Step 6",
+          "description": "Cover and refrigerate for at least 4 hours or overnight."
+        },
+        "7": {
+          "title": "Step 7",
+          "description": "Once chilled, pour the mixture into the Ice Cream Maker  and churn according to manufacturer's instructions."
+        },
+        "8": {
+          "title": "Step 8",
+          "description": "During the last few minutes of churning, add the frozen cookie dough balls."
+        },
+        "9": {
+          "title": "Step 9",
+          "description": "Transfer churned ice cream to a freezer-safe container and freeze for a few hours until firm."
+        },
+        "10": {
+          "title": "Step 10",
+          "description": "Serve and enjoy!."
         }
+
      }
   },
   {
      "id":"3",
-     "image":"https://cdn.pixabay.com/photo/2018/01/18/21/37/muesli-3091299_640.jpg",
-     "title":"Yogurt and Fruit Parfait",
-     "createdOn":"15 March 2022",
-     "prepTime":"10 minutes",
-     "foodType":["healthy", "breakfast", "vegetarian"],
+     "image":"https://img.freepik.com/premium-photo/double-scoop-strawberry-cheesecake-blueberry-cheesecake-ice-cream-waffle-cone_1023514-297.jpg",
+     "title":"Strawberry Cheesecake Ice Cream",
+     "createdOn":"15 March 2024",
+     "prepTime":"4 hours 20 minutes",
+     "foodType":["creamy"],
      "author":"MG Developer",
      "authorImage":"/imgs/dianne-russel.png",
      "nutritionInfo": {
-      "calories": "80  kcal",
-      "totalFat": "2g",
+      "calories": "280 kcal",
+      "totalFat": "18g",
       "protein": "3g",
-      "carbohydrate": "14g",
-      "cholesterol": "0,02g"
+      "carbohydrate": "28g",
+      "cholesterol": "90mg"
      },
-     "description": "A delightful parfait with yogurt and finely chopped fruits, offering a mix of flavors and textures.",
+     "description": "Creamy cheesecake-flavored ice cream swirled with fresh strawberry compote and graham cracker crumbles.",
      "ingredients": {
       "main": {
-        "1": "/2 cup yogurt",
-        "2": "1/4 cup finely chopped mixed fruits (e.g., berries, kiwi)"
+        "1": "2 cups heavy cream",
+        "2": "1 cup whole milk",
+        "3": "3/4 cup granulated sugar",
+        "4": "1/2 cup cream cheese, softened",
+        "5": "1 teaspoon vanilla extract",
+        "6": "1 cup fresh strawberries, diced",
+        "7": "1/4 cup granulated sugar",
+        "8": "1 tablespoon lemon juice",
+        "9": "Graham cracker crumbs for garnish"
               
       },
       "sauce": {
@@ -128,17 +185,37 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Layer yogurt and chopped fruits in a small jar or bowl.",
+          "description": "In a saucepan, heat the heavy cream, whole milk, sugar, cream cheese, and vanilla extract over medium heat until sugar dissolves and mixture is steaming.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Repeat layers until ingredients are used up."
+          "description": "Remove from heat and let cool to room temperature."
         },
         "3": {
           "title": "Step 3",
+          "description": "Cover and refrigerate for at least 4 hours or overnight."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Once chilled, pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions!"
+        },
+        "5": {
+          "title": "Step 5",
+          "description": "In the meantime, prepare the strawberry compote: In a small saucepan, combine the diced strawberries, sugar, and lemon juice. Cook over medium heat until strawberries are soft and syrupy. Let cool"
+        },
+        "6": {
+          "title": "Step 6",
           "description": "Serve immediately!"
+        },
+        "7": {
+          "title": "Step 7",
+          "description": "Transfer churned ice cream to a freezer-safe container and freeze for a few hours until firm."
+        },
+        "8": {
+          "title": "Step 8",
+          "description": "Serve and enjoy!"
         }
      }
   },
