@@ -1,26 +1,28 @@
 [
   {
      "id":"1",
-     "image":"https://cdn.pixabay.com/photo/2016/12/25/22/43/pancakes-1931089_1280.jpg",
-     "title":"Banana Pancake Bites",
+     "image":"https://cdn.pixabay.com/photo/2016/06/07/01/49/ice-cream-1440830_640.jpg",
+     "title":"Vanilla Bean Ice Cream",
      "createdOn":"15 March 2024",
-     "prepTime":"15 minutes",
+     "prepTime":"10 minutes",
+     "chill Time": "4 hours",
      "foodType":["healthy", "breakfast", "vegetarian"],
      "author":"MG Developer",
      "authorImage":"/imgs/robert-fox.png",
      "nutritionInfo": {
-      "calories": "50  kcal",
-      "totalFat": "1g",
-      "protein": "1g",
-      "carbohydrate": "10g",
-      "cholesterol": "0,0374 g"
+      "calories": "250   kcal",
+      "totalFat": "15g",
+      "protein": "3g",
+      "carbohydrate": "25g",
+      "cholesterol": "80 g"
      },
-     "description": "Soft and bite-sized banana pancake bites, perfect for little hands to grasp and explore.",
+     "description": "Smooth and creamy vanilla-infused ice cream with real vanilla bean specks.",
      "ingredients": {
       "main": {
-        "1": "1 ripe banana",
-        "2": "1 egg",
-        "3": "2 tablespoons oat flour"
+        "1": "2 cups heavy cream",
+        "2": "1 cup whole milk",
+        "3": "1 vanilla bean, split and seeds scraped out",
+        "4": "Pinch of salt"
         
       },
       "sauce": {
