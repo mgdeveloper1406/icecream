@@ -221,24 +221,30 @@
   },
   {
      "id":"4",
-     "image":"https://cdn.pixabay.com/photo/2022/02/12/20/25/sweet-potato-7009882_640.jpg",
-     "title":"Sweet Potato Toast Sticks",
+     "image":"https://img.freepik.com/premium-photo/salted-caramel-ice-cream_753066-3983.jpg",
+     "title":"Salted Caramel Ice Cream",
      "createdOn":"15 March 2024",
-     "prepTime":"25 minutes",
-     "foodType":["breakfast", "vegetarian", "healthy"],
+     "prepTime":"4 hours 20 minutes",
+     "foodType":["creamy"],
      "author":"MG Developer",
      "authorImage":"/imgs/robert-fox.png",
      "nutritionInfo": {
-      "calories": "60 kcal",
-      "totalFat": "0.5g",
-      "protein": "1g",
-      "carbohydrate": "14g",
-      "cholesterol": "o,002g"
+      "calories": "280 kcal",
+      "totalFat": "15g",
+      "protein": "3g",
+      "carbohydrate": "35g",
+      "cholesterol": "80 mg"
      },
-     "description": "Oven-baked sweet potato sticks, providing a soft and nutritious option for self-feeding.",
+     "description": "Rich and creamy caramel-flavored ice cream with a hint of sea salt for a perfect balance of sweetness and saltiness.",
      "ingredients": {
       "main": {
-        "1": "1 small sweet potato"
+        "1": "2 cups heavy cream",
+        "2": "1 cup whole milk",
+        "3": "3/4 cup granulated sugar",
+        "4": "1/4 cup water",
+        "5": "2 tablespoons unsalted butter",
+        "6": "1 teaspoon vanilla extract",
+        "7": "1/2 teaspoon sea salt flakes"
         
       },
       "sauce": {
@@ -250,17 +256,41 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Slice the sweet potato into thin sticks",
+          "description": "In a saucepan, heat the heavy cream, whole milk, and half of the sugar over medium heat until sugar dissolves and mixture is steaming.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Bake at 400°F (200°C) for 20-25 minutes or until tender."
+          "description": "Remove from heat and let cool to room temperature."
         },
         "3": {
           "title": "Step 3",
-          "description": "Cool slightly before serving."
+          "description": "In another saucepan, combine the remaining sugar and water. Cook over medium heat, stirring occasionally, until the mixture turns amber in color."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Remove from heat and stir in the butter until melted. Carefully add the cream mixture (it will bubble up) and stir until smooth."
+        },
+        "5": {
+          "title": "Step 5",
+          "description": "Stir in the vanilla extract and sea salt flakes."
+        },
+        "6": {
+          "title": "Step 6",
+          "description": "Let the caramel sauce cool completely."
+        },
+        "7": {
+          "title": "Step 7",
+          "description": "Once cooled, pour the caramel sauce into the Ice Cream Maker along with the chilled cream mixture and churn according to manufacturer's instructions."
+        },
+        "8": {
+          "title": "Step 8",
+          "description": "Transfer churned ice cream to a freezer-safe container and freeze for a few hours until firm."
+        },
+        "9": {
+          "title": "Step 9",
+          "description": "Serve and enjoy!."
         }
      }
   },
