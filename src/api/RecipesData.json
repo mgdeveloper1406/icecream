@@ -296,25 +296,28 @@
   },
   {
      "id":"51",
-     "image":"https://cdn.pixabay.com/photo/2022/02/12/21/22/toast-7009956_640.jpg",
-     "title":"Avocado and Egg Smash",
+     "image":"https://img.freepik.com/premium-photo/peanut-butter-ice-cream-balls_136595-24322.jpg?w=2000",
+     "title":"Peanut Butter Swirl Ice Cream",
      "createdOn":"15 March 2024",
-     "prepTime":"15  minutes",
-     "foodType":["breakfast", "vegetarian", "healthy"],
+     "prepTime":"4 hours 15  minutes",
+     "foodType":["creamy"],
      "author":"MG Developer",
      "authorImage":"/imgs/dianne-russel.png",
      "nutritionInfo": {
-      "calories": "90  kcal",
-      "totalFat": "7g",
+      "calories": "290   kcal",
+      "totalFat": "17g",
       "protein": "4g",
-      "carbohydrate": "5g",
-      "cholesterol": "0mg"
+      "carbohydrate": "30g",
+      "cholesterol": "90mg"
      },
-     "description": "Mashed avocado paired with softly scrambled eggs, offering a creamy and protein-rich breakfast.",
+     "description": "Creamy peanut butter-flavored ice cream swirled with ribbons of sweet peanut butter for a rich and decadent dessert.",
      "ingredients": {
       "main": {
-        "1": "1/2 ripe avocado",
-        "2": "1 egg"
+        "1": "2 cups heavy cream",
+        "2": "1 cup whole milk",
+        "3": "3/4 cup granulated sugar",
+        "4": "1/2 cup creamy peanut butter",
+        "5": "1/4 cup chopped peanuts (optional)"
         
       },
       "sauce": {
@@ -326,17 +329,45 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Mash the avocado in a bowl.",
+          "description": "In a saucepan, heat the heavy cream, whole milk, and sugar over medium heat until sugar dissolves and mixture is steaming..",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Scramble the egg and mix it with the mashed avocado."
+          "description": "Remove from heat and let cool to room temperature."
         },
         "3": {
           "title": "Step 2",
-          "description": "Cook in a pan until the eggs are fully cooked."
+          "description": "In a microwave-safe bowl, heat the peanut butter for 30 seconds or until softened."
+        },
+        "3": {
+          "title": "Step 2",
+          "description": "In a microwave-safe bowl, heat the peanut butter for 30 seconds or until softened."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Stir the softened peanut butter into the cooled cream mixture until well combined."
+        },
+        "5": {
+          "title": "Step 5",
+          "description": "Cover and refrigerate for at least 4 hours or overnight."
+        },
+        "6": {
+          "title": "Step 6",
+          "description": "Once chilled, pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
+        },
+        "7": {
+          "title": "Step 7",
+          "description": "During the last few minutes of churning, swirl in additional peanut butter if desired."
+        },
+        "8": {
+          "title": "Step 8",
+          "description": "Transfer churned ice cream to a freezer-safe container and sprinkle chopped peanuts on top if using. Freeze for a few hours until firm."
+        },
+        "9": {
+          "title": "Step 9",
+          "description": "Serve and enjoy!."
         }
      }
   },
