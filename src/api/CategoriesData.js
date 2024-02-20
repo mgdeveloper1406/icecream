@@ -15,7 +15,7 @@ const CategoriesData = [
     id: '3',
     categoryName: 'Gelato',
     cardColor: 'red',
-    icon: 'https://static.vecteezy.com/system/resources/previews/028/239/022/original/ice-cream-3d-icon-illustration-free-png.png'
+    icon: 'https://cdn3d.iconscout.com/3d/premium/thumb/gelato-7642241-6185067.png?f=webp'
   },
   {
     id: '4',
