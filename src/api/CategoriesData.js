@@ -9,13 +9,13 @@ const CategoriesData = [
     id: '2',
     categoryName: 'Fruits',
     cardColor: 'green',
-    icon: 'https://png.pngtree.com/png-clipart/20231002/original/pngtree-ice-cream-with-fruits-and-toppings-on-wafer-cone-isolated-clip-png-image_13229238.png'
+    icon: 'https://i.pinimg.com/originals/4b/2d/00/4b2d00d68642e875cbc19921796004fe.png'
   },
   {
     id: '3',
-    categoryName: 'Meat',
+    categoryName: 'Gelato',
     cardColor: 'red',
-    icon: 'icons/meat.svg'
+    icon: 'https://static.vecteezy.com/system/resources/previews/028/239/022/original/ice-cream-3d-icon-illustration-free-png.png'
   },
   {
     id: '4',
