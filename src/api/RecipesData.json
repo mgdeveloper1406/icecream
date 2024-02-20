@@ -1099,26 +1099,26 @@
   },
   {
      "id":"106",
-     "image":"https://cdn.pixabay.com/photo/2018/09/16/22/51/ice-cream-3682563_640.jpg",
-     "title":"Avocado Chocolate Pudding",
+     "image":"https://img.freepik.com/free-photo/summer-dessert-ice-cream-ice-cream-with-coconut_185193-110450.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699488000&semt=ais",
+     "title":"Creamy Coconut Vanilla Ice Cream",
      "createdOn":"15 March 2024",
-     "prepTime":"10 minutes",
-     "foodType":["dessert", "vegetarian", "snack"],
+     "prepTime":"4 hours 10 minutes",
+     "foodType":["vegan"],
      "author":"MG Developer",
      "authorImage":"/imgs/albert-flores.png",
      "nutritionInfo": {
-      "calories": "120  kcal",
-      "totalFat": "8g",
+      "calories": "200  kcal",
+      "totalFat": "15g",
       "protein": "2g",
-      "carbohydrate": "4g",
-      "cholesterol": "0mg"
+      "carbohydrate": "15g",
+      "cholesterol": "1g"
      },
-     "description": "Creamy and indulgent chocolate pudding made with ripe avocados, offering a healthy twist on a classic dessert",
+     "description": "Smooth and creamy vegan ice cream made with coconut milk and pure vanilla extract for a classic flavor",
      "ingredients": {
       "main": {
-        "1": "2 ripe avocados",
-        "2": "1/4 cup cocoa powder",
-        "3": "1/4 cup maple syrup or honey",
+        "1": "2 cans (13.5 oz each) full-fat coconut milk",
+        "2": "1/2 cup maple syrup or agave nectar",
+        "3": "2 teaspoons pure vanilla extract",
         "4": "1 teaspoon vanilla extract",
         "5": "A pinch of salt"
          },
@@ -1131,17 +1131,21 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a blender or food processor, combine ripe avocados, cocoa powder, maple syrup or honey, vanilla extract, and salt.",
+          "description": "In a blender, combine the coconut milk, maple syrup or agave nectar, vanilla extract, and a pinch of salt. Blend until smooth.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Blend until smooth and creamy, scraping down the sides as needed."
+          "description": "Pour the mixture into the Ice Cream Maker Ninja and churn according to manufacturer's instructions."
         },
         "3": {
           "title": "Step 3",
-          "description": "Transfer the pudding to serving cups and chill in the refrigerator for at least 1 hour before serving"
+          "description": "Transfer churned ice cream to a freezer-safe container and freeze for a few hours until firm"
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Serve and enjoy!"
         }
      }
   },
