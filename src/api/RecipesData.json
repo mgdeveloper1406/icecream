@@ -445,10 +445,10 @@
   {
      "id":"53",
      "image":"https://cdn.pixabay.com/photo/2018/09/10/19/21/bread-3667829_1280.jpg",
-     "title":"Apple Zucchini Bread",
+     "title":"Stracciatella Gelato",
      "createdOn":"15 March 2024",
      "prepTime":"55 minutes",
-     "foodType":["bread", "dessert", "vegetarian"],
+     "foodType":["gelato"],
      "author":"MG Developer",
      "authorImage":"/imgs/courtney-henry.png",
      "nutritionInfo": {
