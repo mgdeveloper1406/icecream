@@ -444,34 +444,28 @@
   },
   {
      "id":"53",
-     "image":"https://cdn.pixabay.com/photo/2018/09/10/19/21/bread-3667829_1280.jpg",
+     "image":"https://img.freepik.com/fotos-premium/plano-bola-helado-italiano-stracciatella-hojuelas-chocolate-amargo-cremoso-helado-vainilla-c_908985-93780.jpg",
      "title":"Stracciatella Gelato",
      "createdOn":"15 March 2024",
-     "prepTime":"55 minutes",
+     "prepTime":"4 hours 15 minutes",
      "foodType":["gelato"],
      "author":"MG Developer",
      "authorImage":"/imgs/courtney-henry.png",
      "nutritionInfo": {
-      "calories": "100 kcal",
-      "totalFat": "2.5g",
-      "protein": "2g",
-      "carbohydrate": "2g",
-      "cholesterol": "0,0374 g"
+      "calories": "240 kcal",
+      "totalFat": "12g",
+      "protein": "4g",
+      "carbohydrate": "30g",
+      "cholesterol": "70mg"
      },
-     "description": "A delicious way to sneak in veggies with the sweetness of apples in a soft, baby-friendly bread.",
+     "description": "Smooth and creamy vanilla gelato with delicate chocolate shavings throughout.",
      "ingredients": {
       "main": {
-        "1": "1 cup grated zucchini, excess water squeezed out",
-        "2": "1/2 cup applesauce",
-        "3": "1/4 cup melted butter",
-        "4": "1/2 cup brown sugar",
-        "5": "1 egg",
-        "6": "1 teaspoon vanilla extract",
-        "7": "1 1/2 cups all-purpose flour",
-        "8": "1/2 teaspoon baking powder",
-        "9": "1/2 teaspoon cinnamon",
-        "10": "1/2 teaspoon baking soda",
-        "11": "A pinch of salt"
+        "1": "2 cups whole milk",
+        "2": "1 cup heavy cream",
+        "3": "3/4 cup granulated sugar",
+        "4": "1 teaspoon vanilla extract",
+        "5": "3 ounces dark chocolate, finely chopped"
 
       },
       "sauce": {
@@ -483,18 +477,35 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Preheat the oven to 350°F (175°C). Preheat the oven to 350°F (175°C).",
+          "description": "In a saucepan, heat the whole milk, heavy cream, and sugar over medium heat until sugar dissolves and mixture is steaming.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Mix zucchini, applesauce, melted butter, brown sugar, egg, and vanilla in a bowl."
+          "description": "Remove from heat and stir in the vanilla extract."
         },
         "3": {
           "title": "Step 3",
-          "description": "Combine wet and dry ingredients, pour into a greased loaf pan, and bake until a toothpick comes out clean."
+          "description": "Let the mixture cool to room temperature, then cover and refrigerate for at least 4 hours or overnight."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Once chilled, pour the mixture into the Ice Cream Maker Ninja and churn according to manufacturer's instructions."
+        },
+        "5": {
+          "title": "Step 5",
+          "description": "During the last few minutes of churning, slowly add the chopped dark chocolate."
+        },
+        "6": {
+          "title": "Step 6",
+          "description": "Transfer churned gelato to a freezer-safe container and freeze for a few hours until firm."
+        },
+        "7": {
+          "title": "Step 7",
+          "description": "Serve and enjoy!."
         }
+
      }
   },
   {
