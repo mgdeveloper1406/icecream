@@ -633,32 +633,28 @@
   },
   {
      "id":"56",
-     "image":"https://cdn.pixabay.com/photo/2021/01/11/12/24/muffins-5908287_1280.jpg",
-     "title":"Spinach and Cheese Savory Muffins",
+     "image":"https://img.freepik.com/premium-photo/hazelnut-indulgence-chocolate-ice-cream-with-cream-nutty-delights_756535-1638.jpg",
+     "title":"Chocolate Hazelnut Gelato",
      "createdOn":"15 March 2022",
-     "prepTime":"40 minutes",
-     "foodType":["bread", "snack", "vegetarian"],
-     "author":"Leslie Alexander",
+     "prepTime":"4 hours 20 minutes",
+     "foodType":["gelato"],
+     "author":"MG Developer",
      "authorImage":"/imgs/leslie-alexander.png",
      "nutritionInfo": {
-      "calories": "90  kcal",
-      "totalFat": "4g",
-      "protein": "3g",
-      "carbohydrate": "3g",
-      "cholesterol": "0mg"
+      "calories": "280 kcal",
+      "totalFat": "17g",
+      "protein": "4g",
+      "carbohydrate": "30g",
+      "cholesterol": "75mg"
      },
-     "description": "Savory muffins packed with spinach and cheese, introducing a delightful twist to baby's taste buds.",
+     "description": "Rich and creamy chocolate hazelnut gelato made with Nutella and chopped hazelnuts.",
      "ingredients": {
       "main": {
-        "1": "1 cup fresh spinach, finely chopped",
-        "2": "1/2 cup shredded cheddar cheese",
-        "3": "1 cup all-purpose flour",
-        "4": "1 teaspoon baking powder",
-        "5": "1/4 teaspoon salt",
-        "6": "1/2 cup milk",
-        "7": "1/4 cup melted butter",
-        "8": "1 egg"
-        
+        "1": "2 cups whole milk",
+        "2": "1 cup heavy cream",
+        "3": "3/4 cup granulated sugar",
+        "4": "1/2 cup Nutella or chocolate hazelnut spread",
+        "5": "1/2 cup chopped hazelnuts"        
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -669,17 +665,37 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Preheat the oven to 350°F (175°C). In a bowl, combine chopped spinach and shredded cheddar cheese.",
+          "description": "In a saucepan, combine the whole milk, heavy cream, and granulated sugar. Heat over medium heat, stirring occasionally, until sugar is dissolved and mixture is steaming.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "In a separate bowl, whisk together flour, baking powder, baking soda, and salt."
+          "description": "Remove from heat and let cool to room temperature."
         },
         "3": {
           "title": "Step 3",
-          "description": "Combine milk, melted butter, and egg in another bowl. Add the wet ingredients to the dry ingredients, then fold in the spinach and cheese mixture. Spoon into muffin cups and bake until a toothpick comes out clean."
+          "description": "Stir in the Nutella until well combined."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Cover and refrigerate for at least 4 hours or overnight."
+        },
+        "5": {
+          "title": "Step 5",
+          "description": "Once chilled, pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
+        },
+        "6": {
+          "title": "Step 6",
+          "description": "During the last few minutes of churning, add the chopped hazelnuts."
+        },
+        "7": {
+          "title": "Step 7",
+          "description": "Transfer churned gelato to a freezer-safe container and freeze for a few hours until firm."
+        },
+        "8": {
+          "title": "Step 8",
+          "description": "Serve and enjoy!."
         }
      }
   },
