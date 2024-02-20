@@ -876,7 +876,7 @@
         },
         "2": {
           "title": "Step 2",
-          "description": "Pour the mixture into the Ice Cream Maker Ninja and churn according to manufacturer's instructions."
+          "description": "Pour the mixture into the Ice Cream Maker  and churn according to manufacturer's instructions."
         },
         "3": {
           "title": "Step 3",
@@ -928,7 +928,7 @@
         },
         "2": {
           "title": "Step 2",
-          "description": "Pour the mixture into the Ice Cream Maker Ninja and churn according to manufacturer's instructions."
+          "description": "Pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
         },
         "3": {
           "title": "Step 3",
@@ -943,30 +943,28 @@
   },
   {
      "id":"103",
-     "image":"https://cdn.pixabay.com/photo/2018/08/12/00/34/meatloaf-3599882_1280.jpg",
-     "title":"Turkey and Veggie Meatloaf",
+     "image":"https://img.freepik.com/premium-photo/blueberry-ice-cream-rustic-bowl-with-mint-blueberries-white-plate_550548-1633.jpg",
+     "title":"Blueberry Lemon Ice Cream",
      "createdOn":"15 March 2022",
-     "prepTime":"55 minutes",
+     "prepTime":"4 hours 15 minutes",
      "foodType":["healthy", "meat"],
      "author":"MG Developer",
      "authorImage":"/imgs/wade-warren.png",
      "nutritionInfo": {
       "calories": "160  kcal",
-      "totalFat": "5g",
-      "protein": "15g",
-      "carbohydrate": "12g",
-      "cholesterol": "40mg"
+      "totalFat": "1g",
+      "protein": "2g",
+      "carbohydrate": "35g",
+      "cholesterol": "0mg"
      },
-     "description": "A wholesome meatloaf packed with ground turkey and nutritious vegetables, baked to perfection.",
+     "description": "Tart and tangy ice cream made with fresh blueberries and zesty lemon for a burst of flavor.",
      "ingredients": {
       "main": {
-        "1": "1/2 pound ground turkey",
-        "2": "1/4 cup finely chopped mixed vegetables (e.g., carrots, onions, bell peppers)",
-        "3": "1/4 cup breadcrumbs",
-        "4": "1 egg",
-        "5": "2 tablespoons ketchup or tomato sauce",
-        "6": "1 teaspoon Worcestershire sauce",
-        "7": "Salt and pepper to taste"
+        "1": "2 cups fresh blueberries",
+        "2": "Zest and juice of 1 lemon",
+        "3": "1/4 cup honey or maple syrup",
+        "4": "1 cup plain Greek yogurt",
+        "5": "1/2 teaspoon vanilla extract"
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -977,17 +975,21 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Preheat the oven to 350°F (175°C). In a bowl, mix ground turkey, chopped vegetables, breadcrumbs, egg, ketchup, Worcestershire sauce, salt, and pepper.",
+          "description": "In a blender, combine the blueberries, lemon zest, lemon juice, honey or maple syrup, Greek yogurt, and vanilla extract. Blend until smooth.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Shape mixture into a loaf and place in a greased loaf pan."
+          "description": "Pour the mixture into the Ice Cream Maker Ninja and churn according to manufacturer's instructions."
         },
         "3": {
           "title": "Step 3",
           "description": "Bake for 40-45 minutes or until cooked through."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Serve and enjoy!."
         }
      }
   },
