@@ -21,7 +21,7 @@ const CategoriesData = [
     id: '4',
     categoryName: 'Vegan',
     cardColor: 'yellow',
-    icon: 'icons/dessert.svg'
+    icon: 'https://icons.iconarchive.com/icons/iconshock/brilliant-food/256/cup-ice-cream-icon.png'
   },
   {
     id: '5',
