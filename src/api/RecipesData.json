@@ -1209,8 +1209,8 @@
      "image":"https://img.freepik.com/premium-photo/mint-chocolate-chip-ice-cream-tasty-dessert-background_962764-85927.jpg",
      "title":"Mint Chocolate Chip Ice Cream",
      "createdOn":"15 March 2022",
-     "prepTime":"34 hours 15 minutes",
-     "foodType":["dessert", "snack"],
+     "prepTime":"4 hours 15 minutes",
+     "foodType":["vegan"],
      "author":"MG Developer",
      "authorImage":"/imgs/wade-warren.png",
      "nutritionInfo": {
@@ -1260,29 +1260,28 @@
   },
   {
      "id":"151",
-     "image":"https://cdn.pixabay.com/photo/2017/03/12/10/30/blueberry-2136750_1280.jpg",
-     "title":"Banana Blueberry Oat Bites",
+     "image":"https://img.freepik.com/premium-vector/strawberry-ice-cream-with-waffle-basket-isolated-white-background_1045923-1490.jpg",
+     "title":"Strawberry Coconut Ice Cream",
      "createdOn":"15 March 2024",
-     "prepTime":"30 minutes",
-     "foodType":["snack", "vegetarian"],
+     "prepTime":"34 hours 15 minutes",
+     "foodType":["vegan"],
      "author":"MG Developer",
      "authorImage":"/imgs/leslie-alexander.png",
      "nutritionInfo": {
-      "calories": "70 kcal",
-      "totalFat": "1g",
+      "calories": "180  kcal",
+      "totalFat": "14 g",
       "protein": "2g",
       "carbohydrate": "14g",
-      "cholesterol": "5mg"
+      "cholesterol": "0mg"
      },
-     "description": "Soft and chewy bites packed with the natural sweetness of bananas and blueberries, perfect for little fingers to grasp and explore.",
+     "description": "Creamy vegan ice cream made with ripe strawberries and coconut milk for a delightful fruity flavor.",
      "ingredients": {
       "main": {
-        "1": "1 ripe banana, mashed",
-        "2": "1/4 cup rolled oats",
-        "3": "2 tablespoons blueberries, chopped",
-        "4": "1 tablespoon melted coconut oil",
-        "5": "1 tablespoon honey or maple syrup",
-        "6": "1/4 teaspoon cinnamon (optional)"
+        "1": "2 cans (13.5 oz each) full-fat coconut milk",
+        "2": "2 cups ripe strawberries, hulled and sliced",
+        "3": "1/2 cup maple syrup or agave nectar",
+        "4": "1 teaspoon pure vanilla extract",
+        "5": "Pinch of salt"
       
       },
       "sauce": {
@@ -1294,21 +1293,21 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Preheat the oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+          "description": "In a blender, combine the coconut milk, ripe strawberries, maple syrup or agave nectar, vanilla extract, and a pinch of salt. Blend until smooth.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "In a bowl, mix mashed banana, rolled oats, chopped blueberries, melted coconut oil, honey or maple syrup, and cinnamon (if using) until well combined."
+          "description": "Pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
         },
         "3": {
           "title": "Step 3",
-          "description": "Drop spoonfuls of the mixture onto the prepared baking sheet and flatten slightly with a fork."
+          "description": "Transfer churned ice cream to a freezer-safe container and freeze for a few hours until firm."
         },
         "4": {
           "title": "Step 4",
-          "description": "Bake for 15 minutes or until golden brown. Allow to cool before serving."
+          "description": "Serve and enjoy!."
         }
      }
   },
