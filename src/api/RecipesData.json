@@ -1625,31 +1625,28 @@
 },
 {
   "id":"153",
-  "image":"https://cdn.pixabay.com/photo/2016/11/19/13/25/baking-1839248_1280.jpg",
-  "title":"Blueberry Banana Muffins",
-  "createdOn":"15 March 2022",
-  "prepTime":"35 minutes",
-  "foodType":["dessert", "breakfast"],
+  "image":"https://img.freepik.com/free-photo/gelato_144627-41505.jpg",
+  "title":"Raspberry Lemon Sorbet",
+  "createdOn":"15 March 2024",
+  "prepTime":"4 hours 10 minutes",
+  "foodType":["sorbet"],
   "author":"MG Developer",
   "authorImage":"/imgs/albert-flores.png",
   "nutritionInfo": {
-   "calories": "90 kcal",
-   "totalFat": "3g",
-   "protein": "2g",
-   "carbohydrate": "15g",
-   "cholesterol": "15mg"
+   "calories": "100 kcal",
+   "totalFat": "0 ",
+   "protein": "1g",
+   "carbohydrate": "25g",
+   "cholesterol": "0mg"
   },
-  "description": "Moist and fruity muffins made with fresh blueberries and ripe bananas, a delightful treat for breakfast or snack time.",
+  "description": "Refreshing and tangy sorbet made with ripe raspberries and fresh lemon juice for a burst of fruity flavor.",
   "ingredients": {
    "main": {
-     "1": "1 ripe banana, mashed",
-     "2": "1/4 cup mashed blueberries",
-     "3": "1/4 cup whole wheat flour",
-     "4": "1/4 cup rolled oats",
-     "5": "1 egg",
-     "6": "1 tablespoon honey or maple syrup",
-     "7": "1/2 teaspoon baking powder",
-     "8": "A pinch of salt"
+     "1": "3 cups fresh raspberries",
+     "2": "1/2 cup granulated sugar",
+     "3": "Juice of 2 lemons",
+     "4": "Zest of 1 lemon",
+     "5": "1/2 cup water"
    },
    "sauce": {
      "1": "Lorem ipsum dolor sit amet",
@@ -1660,21 +1657,21 @@
   "directions": {
      "1": {
        "title": "Step 1",
-       "description": "Preheat the oven to 350°F (175°C) and line a mini muffin tin with paper liners.",
+       "description": "In a blender, combine the raspberries, granulated sugar, lemon juice, lemon zest, and water. Blend until smooth.",
        "image": "/imgs/woman-cooking.png",
        "imageAlt": "Woman cooking"
      },
      "2": {
        "title": "Step 2",
-       "description": "In a bowl, mix together mashed banana, mashed blueberries, whole wheat flour, rolled oats, egg, honey or maple syrup, baking powder, and salt until well combined."
+       "description": "Pour the mixture into the Ice Cream Maker Ninja and churn according to manufacturer's instructions."
      },
      "3": {
        "title": "Step 3",
-       "description": "Spoon the batter into the prepared muffin tin, filling each cup about two-thirds full."
+       "description": "Transfer churned sorbet to a freezer-safe container and freeze for a few hours until firm."
      },
      "4": {
-      "title": "Step 3",
-      "description": "Bake for 20 minutes or until a toothpick inserted into the center comes out clean. Allow the muffins to cool before serving. Store leftovers in an airtight container in the refrigerator for up to 3 days."
+      "title": "Step 4",
+      "description": "Serve and enjoy!."
     }
   }
 },
