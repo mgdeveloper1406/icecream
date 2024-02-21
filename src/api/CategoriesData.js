@@ -25,9 +25,9 @@ const CategoriesData = [
   },
   {
     id: '5',
-    categoryName: 'Vegetarian',
+    categoryName: 'Yogurt',
     cardColor: 'green',
-    icon: 'https://png.pngtree.com/png-vector/20231214/ourmid/pngtree-vegetable-salad-gourmet-3d-gradient-texture-icon-life-element-food-png-image_11336120.png'
+    icon: 'https://cdn3d.iconscout.com/3d/premium/thumb/cone-ice-cream-8580184-6766211.png?f=webp'
   },
   {
     id: '6',
