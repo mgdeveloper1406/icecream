@@ -1663,7 +1663,7 @@
      },
      "2": {
        "title": "Step 2",
-       "description": "Pour the mixture into the Ice Cream Maker Ninja and churn according to manufacturer's instructions."
+       "description": "Pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
      },
      "3": {
        "title": "Step 3",
@@ -1677,27 +1677,29 @@
 },
   {
     "id":"152",
-    "image":"https://img.freepik.com/premium-photo/avocado-banana-face-mask_543222-1020.jpg",
-    "title":"Avocado Banana Mash",
+    "image":"https://img.freepik.com/free-photo/cottage-cheese-with-pear-jam-bowl_2829-12939.jpg?size=626&ext=jpg&ga=GA1.1.1803636316.1701388800&semt=ais",
+    "title":"Mango Pineapple Sorbet",
     "createdOn":"15 March 2022",
-    "prepTime":"5 minutes",
-    "foodType":["breakfast"],
+    "prepTime":"4 hours 15 minutes",
+    "foodType":["sorbet"],
     "author":"MG Developer",
     "authorImage":"/imgs/albert-flores.png",
     "nutritionInfo": {
-     "calories": "100  kcal",
-     "totalFat": "6g",
+     "calories": "120 kcal",
+     "totalFat": "0g",
      "protein": "1g",
-     "carbohydrate": "3g",
+     "carbohydrate": "30g",
      "cholesterol": "0mg"
     },
-    "description": "Creamy and nutritious mash made with ripe avocado and banana, packed with healthy fats and essential nutrients for your growing baby.",
+    "description": "Tropical and sweet sorbet made with ripe mangoes and juicy pineapple for a taste of the tropics.",
     "ingredients": {
      "main": {
-       "1": "1 ripe avocado",
-       "2": "1 ripe banana",
-       "3": "Breastmilk or formula (optional, for thinning)",
-       "4": "Butter or oil for cooking"
+       "1": "1 cup fresh pineapple chunks",
+       "2": "2 ripe mangoes, peeled and diced",
+       "3": "1 cup fresh pineapple chunks",
+       "4": "1/4 cup honey or agave syrup",
+       "5": "Juice of 1 lime",
+       "6": "1/2 cup water"
      },
      "sauce": {
        "1": "Lorem ipsum dolor sit amet",
@@ -1708,48 +1710,48 @@
     "directions": {
        "1": {
          "title": "Step 1",
-         "description": "Peel and pit the avocado, then mash it in a bowl using a fork. Peel the banana and mash it separately, then combine it with the mashed avocado.",
+         "description": "In a blender, combine the mangoes, pineapple chunks, honey or agave syrup, lime juice, and water. Blend until smooth.",
          "image": "/imgs/woman-cooking.png",
          "imageAlt": "Woman cooking"
        },
        "2": {
          "title": "Step 2",
-         "description": "If desired, thin the mixture with a small amount of breastmilk or formula to achieve the desired consistency."
+         "description": "Pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
        },
        "3": {
          "title": "Step 3",
-         "description": "Serve the avocado banana mash as is or spread it onto strips of toast for added texture."
-       }
+         "description": "Transfer churned sorbet to a freezer-safe container and freeze for a few hours until firm."
+       },
+       "4": {
+        "title": "Step 4",
+        "description": "Serve and enjoy!."
+      }
     }
   },
   {
     "id":"154",
-    "image":"https://cdn.pixabay.com/photo/2017/03/06/12/00/bread-2121304_640.jpg",
-    "title":"Carrot Raisin Bread",
+    "image":"https://img.freepik.com/premium-photo/strawberry-granita-fresh-berry-sorbet-white-rustic-bowl-old-wooden-table-background-ice-cream-with-strawberry-mint-summer-treat-top-view_253362-25298.jpg",
+    "title":"Strawberry Basil Sorbet",
     "createdOn":"15 March 2022",
-    "prepTime":"60 minutes",
+    "prepTime":"4 hours 15 minutes",
     "foodType":["bread"],
     "author":"MG Developer",
     "authorImage":"/imgs/albert-flores.png",
     "nutritionInfo": {
-     "calories": "90   kcal",
-     "totalFat": "2g",
-     "protein": "2g",
-     "carbohydrate": "16g",
-     "cholesterol": "20 mg"
+     "calories": "110 kcal",
+     "totalFat": "0g",
+     "protein": "1g",
+     "carbohydrate": "28g",
+     "cholesterol": "0mg"
     },
-    "description": "Moist and lightly spiced bread filled with grated carrots and plump raisins, a nutritious and flavorful option for breakfast or snack time.",
+    "description": "A unique and refreshing sorbet made with fresh strawberries and fragrant basil leaves for a delightful twist.",
     "ingredients": {
      "main": {
-       "1": "1 cup grated carrots",
-       "2": "1/4 cup melted butter",
-       "3": "1/4 cup honey or maple syrup",
-       "4": "1 egg",
-       "5": "1 cup whole wheat flour",
-       "6": "1/2 teaspoon baking powder",
-       "7": "1/2 teaspoon cinnamon",
-       "8": "1/4 cup raisins",
-       "9": "A pinch of salt"
+       "1": "3 cups fresh strawberries, hulled and sliced",
+       "2": "1/4 cup honey or maple syrup",
+       "3": "Juice of 1 lemon",
+       "4": "1/4 cup fresh basil leaves",
+       "5": "1/2 cup water"
      },
      "sauce": {
        "1": "Lorem ipsum dolor sit amet",
@@ -1760,25 +1762,21 @@
     "directions": {
        "1": {
          "title": "Step 1",
-         "description": "Preheat the oven to 350°F (175°C) and grease a loaf pan. In a bowl, mix together grated carrots, melted butter, honey or maple syrup, and egg until well combined.",
+         "description": "In a blender, combine the strawberries, honey or maple syrup, lemon juice, basil leaves, and water. Blend until smooth.",
          "image": "/imgs/woman-cooking.png",
          "imageAlt": "Woman cooking"
        },
        "2": {
          "title": "Step 2",
-         "description": "Add whole wheat flour, baking powder, cinnamon, raisins, and salt to the wet ingredients and stir until just combined."
+         "description": "Pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
        },
        "3": {
          "title": "Step 3",
-         "description": "Pour the batter into the prepared loaf pan and smooth the top with a spatula."
+         "description": "Transfer churned sorbet to a freezer-safe container and freeze for a few hours until firm."
        },
        "4": {
         "title": "Step 4",
-        "description": "Bake for 45 minutes or until a toothpick inserted into the center comes out clean."
-      },
-      "5": {
-        "title": "Step 5",
-        "description": "Allow the bread to cool in the pan for 10 minutes before transferring to a wire rack to cool completely."
+        "description": "Serve and enjoy!."
       }
     }
   },
