@@ -1472,29 +1472,27 @@
  },
  {
   "id":"152",
-  "image":"https://cdn.pixabay.com/photo/2023/07/20/11/00/salty-muffin-8139064_1280.jpg",
-  "title":"Cheesy Veggie Quinoa Bites",
+  "image":"https://img.freepik.com/premium-photo/blueberry-ice-cream-paper-cup-with-wooden-scoop-isolated-blue-background_25996-11893.jpg",
+  "title":"Blueberry Greek Yogurt Ice Cream",
   "createdOn":"15 March 2022",
-  "prepTime":"25 minutes",
-  "foodType":["snack"],
+  "prepTime":"4 hours 15 minutes",
+  "foodType":["yogurt"],
   "author":"MG Developer",
   "authorImage":"/imgs/albert-flores.png",
   "nutritionInfo": {
-   "calories": "50 kcal",
-   "totalFat": "3g",
-   "protein": "4g",
-   "carbohydrate": "12g",
+   "calories": "160  kcal",
+   "totalFat": "5g",
+   "protein": "9g",
+   "carbohydrate": "20g",
    "cholesterol": "10mg"
   },
-  "description": "Bite-sized quinoa bites loaded with cheese and finely chopped vegetables, offering a savory and nutritious snack option.",
+  "description": "Creamy and tangy ice cream with bursts of sweet blueberries, made with Greek yogurt for a protein-packed dessert.",
   "ingredients": {
    "main": {
-     "1": "1/2 cup cooked quinoa",
-     "2": "1/4 cup shredded cheddar cheese",
-     "3": "1/4 cup finely chopped mixed vegetables (e.g., carrots, broccoli, bell peppers)",
-     "4": "1 egg",
-     "5": "1 tablespoon breadcrumbs",
-     "6": "A pinch of salt and pepper"
+     "1": "2 cups Greek yogurt",
+     "2": "1 cup fresh blueberries",
+     "3": "1 teaspoon vanilla extract",
+     "4": "1/4 cup honey or agave syrup"
    },
    "sauce": {
      "1": "Lorem ipsum dolor sit amet",
@@ -1505,18 +1503,22 @@
   "directions": {
      "1": {
        "title": "Step 1",
-       "description": "Preheat the oven to 350°F (175°C) and grease a mini muffin tin.",
+       "description": "In a blender, combine the Greek yogurt, fresh blueberries, honey or agave syrup, and vanilla extract. Blend until smooth.",
        "image": "/imgs/woman-cooking.png",
        "imageAlt": "Woman cooking"
      },
      "2": {
        "title": "Step 2",
-       "description": "In a bowl, mix cooked quinoa, shredded cheddar cheese, chopped vegetables, egg, breadcrumbs, salt, and pepper until well combined."
+       "description": "Pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
      },
      "3": {
        "title": "Step 3",
-       "description": "Spoon the mixture into the prepared muffin tin, filling each cup to the top. Bake for 20 minutes or until golden brown and set. Allow to cool slightly before serving."
-     }
+       "description": "Transfer churned ice cream to a freezer-safe container and freeze for a few hours until firm."
+     },
+     "4": {
+      "title": "Step 4",
+      "description": "Serve and enjoy!."
+    }
   }
 },
 {
