@@ -1370,25 +1370,27 @@
   },
   {
      "id":"153",
-     "image":"https://cdn.pixabay.com/photo/2015/12/07/11/48/apple-1080688_1280.jpg",
-     "title":"Cinnamon Apple Slices",
+     "image":"https://img.freepik.com/free-photo/tasty-appetizing-pure-vanilla-creamy-ice-cream-with-ice-cream-spoon-closeup_1220-1392.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702944000&semt=ais",
+     "title":"Creamy Vanilla Yogurt Ice Cream",
      "createdOn":"15 March 2024",
-     "prepTime":"25 minutes",
-     "foodType":["snack"],
+     "prepTime":"4 hours 5 minutes",
+     "foodType":["yogurt"],
      "author":"MG Developer",
      "authorImage":"/imgs/wade-warren.png",
      "nutritionInfo": {
-      "calories": "50  kcal",
-      "totalFat": "0g",
-      "protein": "0g",
+      "calories": "150 kcal",
+      "totalFat": "5g",
+      "protein": "10g",
       "carbohydrate": "14g",
-      "cholesterol": "0mg"
+      "cholesterol": "10mg"
      },
-     "description": "Crisp apple slices lightly dusted with cinnamon, providing a naturally sweet and refreshing snack for little ones.",
+     "description": "Smooth and creamy ice cream with a hint of vanilla flavor, made with Greek yogurt for a tangy twist.",
      "ingredients": {
       "main": {
-        "1": "1 apple, cored and thinly sliced",
-        "2": "1/2 teaspoon ground cinnamon"
+        "1": "2 cups Greek yogurt",
+        "2": "1/2 cup granulated sugar",
+        "3": "1 teaspoon vanilla extract",
+        "4": "Pinch of salt"
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -1399,17 +1401,21 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Place the apple slices in a bowl.",
+          "description": "In a mixing bowl, whisk together the Greek yogurt, granulated sugar, vanilla extract, and a pinch of salt until well combined.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Sprinkle ground cinnamon over the apple slices and toss gently to coat."
+          "description": "Pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
         },
         "3": {
           "title": "Step 3",
-          "description": "Serve immediately or refrigerate for a crispier texture."
+          "description": "Transfer churned ice cream to a freezer-safe container and freeze for a few hours until firm."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Serve and enjoy!."
         }
      }
   },
