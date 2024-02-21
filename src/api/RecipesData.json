@@ -981,7 +981,7 @@
         },
         "2": {
           "title": "Step 2",
-          "description": "Pour the mixture into the Ice Cream Maker Ninja and churn according to manufacturer's instructions."
+          "description": "Pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
         },
         "3": {
           "title": "Step 3",
@@ -1034,7 +1034,7 @@
         },
         "2": {
           "title": "Step 2",
-          "description": "Pour the mixture into the Ice Cream Maker Ninja and churn according to manufacturer's instructions."
+          "description": "Pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
         },
         "3": {
           "title": "Step 3",
@@ -1085,7 +1085,7 @@
         },
         "2": {
           "title": "Step 2",
-          "description": "Pour the mixture into the Ice Cream Maker Ninja and churn according to manufacturer's instructions."
+          "description": "Pour the mixture into the Ice Cream Maker  and churn according to manufacturer's instructions."
         },
         "3": {
           "title": "Step 3",
@@ -1137,7 +1137,7 @@
         },
         "2": {
           "title": "Step 2",
-          "description": "Pour the mixture into the Ice Cream Maker Ninja and churn according to manufacturer's instructions."
+          "description": "Pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
         },
         "3": {
           "title": "Step 3",
@@ -1192,7 +1192,7 @@
         },
         "2": {
           "title": "Step 2",
-          "description": "Pour the mixture into the Ice Cream Maker Ninja and churn according to manufacturer's instructions."
+          "description": "Pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
         },
         "3": {
           "title": "Step 3",
@@ -1206,25 +1206,29 @@
   },
   {
      "id":"108",
-     "image":"https://cdn.pixabay.com/photo/2015/05/22/06/07/peach-778334_1280.jpg",
-     "title":"Peach Banana Soft Serve",
+     "image":"https://img.freepik.com/premium-photo/mint-chocolate-chip-ice-cream-tasty-dessert-background_962764-85927.jpg",
+     "title":"Mint Chocolate Chip Ice Cream",
      "createdOn":"15 March 2022",
-     "prepTime":"35 minutes",
+     "prepTime":"34 hours 15 minutes",
      "foodType":["dessert", "snack"],
      "author":"MG Developer",
      "authorImage":"/imgs/wade-warren.png",
      "nutritionInfo": {
-      "calories": "60  kcal",
-      "totalFat": "0g",
-      "protein": "1g",
-      "carbohydrate": "15g",
+      "calories": "220 kcal",
+      "totalFat": "16g",
+      "protein": "3g",
+      "carbohydrate": "20g",
       "cholesterol": "0mg"
      },
-     "description": " A creamy and naturally sweet soft serve made with frozen peaches and bananas, offering a guilt-free treat.",
+     "description": "Refreshing vegan ice cream flavored with fresh mint and studded with chocolate chips for a cool and indulgent dessert.",
      "ingredients": {
       "main": {
-        "1": "1 ripe banana, sliced and frozen",
-        "2": "1 cup sliced peaches, frozen"
+        "1": "2 cans (13.5 oz each) full-fat coconut milk",
+        "2": "1/2 cup fresh mint leaves",
+        "3": "1/2 cup maple syrup or agave nectar",
+        "4": "1/2 cup dairy-free chocolate chips",
+        "5": "1 teaspoon pure vanilla extract",
+        "6": "Pinch of salt"
         
       },
       "sauce": {
@@ -1236,17 +1240,21 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a blender or food processor, combine frozen banana slices and frozen peach slices.",
+          "description": "In a blender, combine the coconut milk, fresh mint leaves, maple syrup or agave nectar, chocolate chips, vanilla extract, and a pinch of salt. Blend until smooth.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Blend until smooth and creamy, scraping down the sides as needed."
+          "description": "Pour the mixture into the Ice Cream Maker and churn according to manufacturer's instructions."
         },
         "3": {
           "title": "Step 3",
-          "description": "Transfer the soft serve to serving bowls and enjoy immediately."
+          "description": "Transfer churned ice cream to a freezer-safe container and freeze for a few hours until firm."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Serve and enjoy!."
         }
      }
   },
