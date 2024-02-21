@@ -31,9 +31,9 @@ const CategoriesData = [
   },
   {
     id: '6',
-    categoryName: 'Snack',
+    categoryName: 'Sorbet',
     cardColor: 'yellow',
-    icon: 'icons/snack.svg'
+    icon: 'https://static.vecteezy.com/system/resources/previews/030/692/999/large_2x/sorbet-2d-vector-illustration-cartoon-in-white-background-free-photo.jpg'
   }
 ]
 
